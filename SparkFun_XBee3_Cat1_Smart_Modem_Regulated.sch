@@ -24728,7 +24728,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="53.34" y="492.76" size="1.778" layer="97" font="vector">VCC Range: 3.3V - 4.3V</text>
 <text x="195.834" y="500.126" size="2.54" layer="94" font="vector" align="center">Buck Converter - AP63203</text>
 <text x="208.28" y="426.72" size="2.54" layer="94" font="vector" align="center">Qwiic - I2C</text>
-<text x="248.92" y="327.66" size="2.54" layer="94" font="vector" align="center">v02</text>
+<text x="248.92" y="327.66" size="2.54" layer="94" font="vector" align="center">v01</text>
 <text x="187.96" y="330.2" size="2.54" layer="94" font="vector" align="center">Elias Santistevan</text>
 <text x="43.18" y="426.72" size="2.54" layer="94" font="vector" align="center">Buttons and LEDs</text>
 <text x="187.96" y="492.76" size="1.778" layer="97" font="vector">VIN: 3.8 - 5.5V
