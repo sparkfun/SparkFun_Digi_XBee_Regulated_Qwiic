@@ -34,7 +34,7 @@
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
 <layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
 <layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="yes"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
 <layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
@@ -42,7 +42,7 @@
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
 <layer number="49" name="Reference" color="13" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
@@ -84,10 +84,10 @@
 <layer number="114" name="Badge_Outline" color="7" fill="1" visible="no" active="yes"/>
 <layer number="115" name="ReferenceISLANDS" color="7" fill="1" visible="no" active="yes"/>
 <layer number="116" name="Patch_BOT" color="9" fill="4" visible="no" active="yes"/>
-<layer number="117" name="PM_Ref" color="26" fill="1" visible="yes" active="yes"/>
+<layer number="117" name="PM_Ref" color="26" fill="1" visible="no" active="yes"/>
 <layer number="118" name="Rect_Pads" color="7" fill="1" visible="no" active="yes"/>
-<layer number="119" name="PF_Ref" color="31" fill="1" visible="yes" active="yes"/>
-<layer number="120" name="WFL_Ref" color="25" fill="1" visible="yes" active="yes"/>
+<layer number="119" name="PF_Ref" color="31" fill="1" visible="no" active="yes"/>
+<layer number="120" name="WFL_Ref" color="25" fill="1" visible="no" active="yes"/>
 <layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
 <layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
 <layer number="123" name="tTestmark" color="7" fill="1" visible="no" active="yes"/>
@@ -201,8 +201,8 @@
 <wire x1="1.3462" y1="34.8488" x2="1.3462" y2="42.8498" width="0.254" layer="21"/>
 <wire x1="4.191" y1="47.0408" x2="7.8486" y2="50.673" width="0.254" layer="21"/>
 <wire x1="7.8486" y1="50.673" x2="25.273" y2="50.673" width="0.254" layer="21"/>
-<wire x1="25.273" y1="50.673" x2="29.5402" y2="46.4312" width="0.254" layer="21"/>
-<wire x1="31.8008" y1="44.1452" x2="31.8008" y2="34.6456" width="0.254" layer="21"/>
+<wire x1="25.273" y1="50.673" x2="30.1752" y2="45.7962" width="0.254" layer="21"/>
+<wire x1="31.8008" y1="42.6212" x2="31.8008" y2="34.6456" width="0.254" layer="21"/>
 <dimension x1="10.16" y1="7.62" x2="10.16" y2="0" x3="-8.89" y3="3.81" textsize="1.778" textratio="15" layer="47" unit="inch"/>
 <dimension x1="1.27" y1="49.53" x2="-1.27" y2="49.53" x3="0" y3="53.34" textsize="1.778" textratio="15" layer="47" unit="inch"/>
 <dimension x1="10.16" y1="33.02" x2="-1.27" y2="33.02" x3="4.445" y3="57.15" textsize="1.778" textratio="15" layer="47" unit="inch"/>
@@ -11626,7 +11626,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="31.75" y="8.382" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="31.75" y="10.668" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="LOGO2" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="31.75" y="45.72" smashed="yes"/>
+<element name="LOGO2" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="31.75" y="44.45" smashed="yes"/>
 <element name="LOGO3" library="SparkFun-Aesthetics" package="QWIIC_4MM" value="QWIIC_LOGO_4MM" x="16.51" y="6.477" smashed="yes"/>
 <element name="U2" library="SparkFun-IC-Power" package="SOT23-6" value="AP63203" x="15.24" y="16.51" smashed="yes">
 <attribute name="NAME" x="13.335" y="16.51" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -11710,8 +11710,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="U$43" library="top" package="ASSOC27" value="" x="31.496" y="10.795" smashed="yes"/>
 <element name="U$44" library="top" package="#3V3#1" value="" x="7.493" y="33.02" smashed="yes" rot="MR0"/>
 <element name="U$46" library="top" package="#VIN#4" value="" x="7.747" y="7.493" smashed="yes" rot="MR0"/>
-<element name="U$40" library="bot" package="D03" value="" x="27.813" y="3.302" smashed="yes" rot="R90"/>
-<element name="U$30" library="top" package="#RST#30" value="" x="4.826" y="3.302" smashed="yes" rot="R90"/>
+<element name="U$40" library="bot" package="D03" value="" x="27.813" y="3.175" smashed="yes" rot="R90"/>
+<element name="U$30" library="top" package="#RST#30" value="" x="4.826" y="3.175" smashed="yes" rot="R90"/>
 <element name="U$63" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="16.51" y="45.72" smashed="yes" rot="MR0"/>
 <element name="U$61" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="1.905" y="44.831" smashed="yes"/>
 <element name="D4" library="SparkFun-LED" package="LED-0603" value="Yellow" x="32.385" y="6.35" smashed="yes">
@@ -11791,7 +11791,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="U$11" library="topmirror" package="#RLED#22" value="" x="28.321" y="6.35" smashed="yes" rot="MR0"/>
 <element name="U$34" library="topmirror" package="#D3#AD3##CS##23" value="" x="28.321" y="25.273" smashed="yes" rot="MR0"/>
 <element name="LOGO1" library="SparkFun-Aesthetics" package="ORDERING_INSTRUCTIONS" value="SPECIAL_INSTRUCTIONS-ORDERING" x="45.72" y="52.07" smashed="yes"/>
-<element name="LOGO4" library="SparkFun-Aesthetics" package="BLANK" value="SFE_LOGO_NAMEBLANK" x="-30.48" y="-81.28" smashed="yes"/>
+<element name="LOGO4" library="SparkFun-Aesthetics" package="BLANK" value="SFE_LOGO_NAMEBLANK" x="-10.16" y="-27.94" smashed="yes"/>
 </elements>
 <signals>
 <signal name="D11/SDA">
@@ -11801,10 +11801,10 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <contactref element="J2" pad="7"/>
 <wire x1="4.01" y1="20.7" x2="7.24" y2="20.7" width="0.254" layer="1"/>
 <wire x1="7.24" y1="20.7" x2="10.16" y2="17.78" width="0.254" layer="1"/>
-<wire x1="15.24" y1="10.248" x2="12.827" y2="10.248" width="0.254" layer="1"/>
-<wire x1="12.827" y1="10.248" x2="12.319" y2="10.756" width="0.254" layer="1"/>
+<wire x1="15.24" y1="10.248" x2="13.335" y2="10.248" width="0.254" layer="1"/>
+<wire x1="13.335" y1="10.248" x2="12.319" y2="11.264" width="0.254" layer="1"/>
 <wire x1="12.319" y1="15.621" x2="10.16" y2="17.78" width="0.254" layer="1"/>
-<wire x1="12.319" y1="10.756" x2="12.319" y2="15.621" width="0.254" layer="1"/>
+<wire x1="12.319" y1="11.264" x2="12.319" y2="15.621" width="0.254" layer="1"/>
 <wire x1="17.01" y1="6.11303125" x2="17.01" y2="5.08" width="0.254" layer="1"/>
 <wire x1="16.256" y1="6.86703125" x2="17.01" y2="6.11303125" width="0.254" layer="1"/>
 <wire x1="16.256" y1="9.3222125" x2="15.3302125" y2="10.248" width="0.254" layer="1"/>
@@ -12053,9 +12053,9 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <signal name="D4/SPI_PICO">
 <contactref element="J2" pad="11"/>
 <contactref element="J5" pad="10"/>
-<wire x1="22.86" y1="10.16" x2="24.13" y2="10.16" width="0.254" layer="1"/>
-<wire x1="29.01" y1="14.7" x2="28.67" y2="14.7" width="0.254" layer="1"/>
-<wire x1="28.67" y1="14.7" x2="24.13" y2="10.16" width="0.254" layer="1"/>
+<wire x1="22.86" y1="10.16" x2="24.003" y2="10.16" width="0.254" layer="1"/>
+<wire x1="29.01" y1="14.7" x2="28.543" y2="14.7" width="0.254" layer="1"/>
+<wire x1="28.543" y1="14.7" x2="24.003" y2="10.16" width="0.254" layer="1"/>
 </signal>
 <signal name="D7/!CTS!">
 <contactref element="J2" pad="12"/>
