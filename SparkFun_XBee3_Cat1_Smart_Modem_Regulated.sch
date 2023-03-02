@@ -24814,8 +24814,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="C6" library="SparkFun-Capacitors" deviceset="10NF" device="-0603-50V-10%" value="10nF"/>
 <part name="C7" library="SparkFun-Capacitors" deviceset="10NF" device="-0603-50V-10%" value="10nF"/>
 <part name="C9" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" value="0.1uF"/>
-<part name="GND9" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="GND10" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND11" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="C10" library="SparkFun-Capacitors" deviceset="10UF" device="-0603-6.3V-20%" value="10uF"/>
 <part name="SUPPLY1" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
@@ -24836,8 +24834,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="SUPPLY3" library="SparkFun-PowerSymbols" deviceset="VIN" device=""/>
 <part name="C5" library="SparkFun-Capacitors" deviceset="47PF" device="-0603-50V-5%" value="47pF"/>
 <part name="C8" library="SparkFun-Capacitors" deviceset="10PF" device="-0603-50V-5%" value="10pF"/>
-<part name="GND4" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="GND5" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SPECIAL_INSTRUCTIONS" device="-ORDERING"/>
 <part name="LOGO4" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME" device="BLANK"/>
 </parts>
@@ -25016,12 +25012,6 @@ Iout: 2A Max</text>
 <attribute name="NAME" x="30.353" y="468.376" size="1.778" layer="95" font="vector" rot="R90"/>
 <attribute name="VALUE" x="30.099" y="458.724" size="1.778" layer="96" font="vector" rot="R90"/>
 </instance>
-<instance part="GND9" gate="1" x="27.94" y="457.2" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="27.94" y="456.946" size="1.778" layer="96" font="vector" rot="MR0" align="top-center"/>
-</instance>
-<instance part="GND10" gate="1" x="22.86" y="457.2" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="22.86" y="456.946" size="1.778" layer="96" font="vector" rot="MR0" align="top-center"/>
-</instance>
 <instance part="GND11" gate="1" x="129.54" y="462.28" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="129.54" y="462.026" size="1.778" layer="96" font="vector" rot="MR0" align="top-center"/>
 </instance>
@@ -25032,8 +25022,8 @@ Iout: 2A Max</text>
 <instance part="SUPPLY1" gate="G$1" x="33.02" y="474.98" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="33.02" y="477.774" size="1.778" layer="96" font="vector" rot="MR0" align="bottom-center"/>
 </instance>
-<instance part="GND35" gate="1" x="33.02" y="457.2" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="33.02" y="456.946" size="1.778" layer="96" font="vector" rot="MR0" align="top-center"/>
+<instance part="GND35" gate="1" x="33.02" y="452.12" smashed="yes" rot="MR0">
+<attribute name="VALUE" x="33.02" y="451.866" size="1.778" layer="96" font="vector" rot="MR0" align="top-center"/>
 </instance>
 <instance part="H1" gate="G$1" x="246.38" y="350.52" smashed="yes"/>
 <instance part="H2" gate="G$1" x="248.92" y="350.52" smashed="yes"/>
@@ -25085,12 +25075,6 @@ Iout: 2A Max</text>
 <instance part="C8" gate="G$1" x="12.7" y="464.82" smashed="yes">
 <attribute name="NAME" x="14.859" y="468.884" size="1.778" layer="95" font="vector" rot="R90"/>
 <attribute name="VALUE" x="14.859" y="458.724" size="1.778" layer="96" font="vector" rot="R90"/>
-</instance>
-<instance part="GND4" gate="1" x="17.78" y="457.2" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="17.78" y="456.946" size="1.778" layer="96" font="vector" rot="MR0" align="top-center"/>
-</instance>
-<instance part="GND5" gate="1" x="12.7" y="457.2" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="12.7" y="456.946" size="1.778" layer="96" font="vector" rot="MR0" align="top-center"/>
 </instance>
 <instance part="LOGO1" gate="G$1" x="219.71" y="325.374" smashed="yes"/>
 <instance part="LOGO4" gate="G$1" x="154.94" y="353.06" smashed="yes"/>
@@ -25602,16 +25586,6 @@ Iout: 2A Max</text>
 <wire x1="226.06" y1="459.74" x2="226.06" y2="457.2" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="C7" gate="G$1" pin="2"/>
-<pinref part="GND10" gate="1" pin="GND"/>
-<wire x1="22.86" y1="462.28" x2="22.86" y2="459.74" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="C9" gate="G$1" pin="2"/>
-<pinref part="GND9" gate="1" pin="GND"/>
-<wire x1="27.94" y1="462.28" x2="27.94" y2="459.74" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="C6" gate="G$1" pin="2"/>
 <pinref part="GND11" gate="1" pin="GND"/>
 <wire x1="129.54" y1="464.82" x2="129.54" y2="467.36" width="0.1524" layer="91"/>
@@ -25619,7 +25593,24 @@ Iout: 2A Max</text>
 <segment>
 <pinref part="GND35" gate="1" pin="GND"/>
 <pinref part="C10" gate="G$1" pin="2"/>
-<wire x1="33.02" y1="459.74" x2="33.02" y2="462.28" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="454.66" x2="33.02" y2="457.2" width="0.1524" layer="91"/>
+<pinref part="C8" gate="G$1" pin="2"/>
+<wire x1="33.02" y1="457.2" x2="33.02" y2="462.28" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="462.28" x2="12.7" y2="457.2" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="457.2" x2="17.78" y2="457.2" width="0.1524" layer="91"/>
+<junction x="33.02" y="457.2"/>
+<pinref part="C5" gate="G$1" pin="2"/>
+<wire x1="17.78" y1="457.2" x2="22.86" y2="457.2" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="457.2" x2="27.94" y2="457.2" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="457.2" x2="33.02" y2="457.2" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="462.28" x2="17.78" y2="457.2" width="0.1524" layer="91"/>
+<junction x="17.78" y="457.2"/>
+<pinref part="C7" gate="G$1" pin="2"/>
+<wire x1="22.86" y1="462.28" x2="22.86" y2="457.2" width="0.1524" layer="91"/>
+<junction x="22.86" y="457.2"/>
+<pinref part="C9" gate="G$1" pin="2"/>
+<wire x1="27.94" y1="462.28" x2="27.94" y2="457.2" width="0.1524" layer="91"/>
+<junction x="27.94" y="457.2"/>
 </segment>
 <segment>
 <pinref part="RLED" gate="G$1" pin="1"/>
@@ -25631,16 +25622,6 @@ Iout: 2A Max</text>
 <pinref part="GND17" gate="1" pin="GND"/>
 <pinref part="J6" gate="J1" pin="10"/>
 <wire x1="104.14" y1="373.38" x2="96.52" y2="373.38" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="C5" gate="G$1" pin="2"/>
-<wire x1="17.78" y1="462.28" x2="17.78" y2="459.74" width="0.1524" layer="91"/>
-<pinref part="GND4" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="C8" gate="G$1" pin="2"/>
-<wire x1="12.7" y1="462.28" x2="12.7" y2="459.74" width="0.1524" layer="91"/>
-<pinref part="GND5" gate="1" pin="GND"/>
 </segment>
 </net>
 </nets>
