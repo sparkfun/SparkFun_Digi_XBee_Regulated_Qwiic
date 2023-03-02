@@ -9,8 +9,8 @@
 <grid distance="0.05" unitdist="inch" unit="inch" style="dots" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="2" name="Route2" color="23" fill="1" visible="no" active="yes"/>
-<layer number="15" name="Route15" color="39" fill="1" visible="no" active="yes"/>
+<layer number="2" name="Route2" color="23" fill="1" visible="yes" active="yes"/>
+<layer number="15" name="Route15" color="39" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="3" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="26" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
@@ -12078,9 +12078,12 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <vertex x="19.431" y="12.954"/>
 </polygon>
 <contactref element="J3" pad="1"/>
-<wire x1="16.256" y1="13.716" x2="17.272" y2="13.716" width="0.762" layer="15"/>
-<via x="17.272" y="13.716" extent="1-16" drill="0.3048"/>
-<wire x1="10.16" y1="7.62" x2="16.256" y2="13.716" width="0.762" layer="15"/>
+<via x="17.018" y="14.097" extent="1-16" drill="0.3048"/>
+<wire x1="17.018" y1="14.097" x2="10.541" y2="7.62" width="0.762" layer="15"/>
+<wire x1="10.16" y1="7.62" x2="10.541" y2="7.62" width="0.762" layer="15"/>
+<via x="17.526" y="14.478" extent="1-16" drill="0.3048"/>
+<wire x1="17.526" y1="14.478" x2="17.145" y2="14.097" width="0.762" layer="15"/>
+<wire x1="17.018" y1="14.097" x2="17.145" y2="14.097" width="0.762" layer="15"/>
 </signal>
 <signal name="N$21">
 <contactref element="ALED" pad="2"/>
