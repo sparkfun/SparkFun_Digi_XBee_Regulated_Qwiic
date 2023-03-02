@@ -25500,8 +25500,8 @@ Iout: 2A Max</text>
 <label x="165.1" y="469.9" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="132.08" y1="368.3" x2="137.16" y2="368.3" width="0.1524" layer="91"/>
-<label x="132.08" y="368.3" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="134.62" y1="368.3" x2="137.16" y2="368.3" width="0.1524" layer="91"/>
+<label x="134.62" y="368.3" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 <pinref part="J1" gate="G$1" pin="1"/>
 </segment>
 </net>
