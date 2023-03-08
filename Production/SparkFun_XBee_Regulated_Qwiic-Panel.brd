@@ -10333,6 +10333,306 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="0.09" y="-0.38"/>
 </polygon>
 </package>
+<package name="EXPLORER1344">
+<polygon width="0.01" layer="21">
+<vertex x="-3.72" y="-0.3"/>
+<vertex x="-3.72" y="-0.22"/>
+<vertex x="-3.71" y="-0.14"/>
+<vertex x="-3.46" y="-0.14"/>
+<vertex x="-3.37" y="-0.14"/>
+<vertex x="-3.3" y="-0.12"/>
+<vertex x="-3.26" y="-0.05"/>
+<vertex x="-3.26" y="0.06"/>
+<vertex x="-3.3" y="0.12"/>
+<vertex x="-3.37" y="0.14"/>
+<vertex x="-3.71" y="0.14"/>
+<vertex x="-3.72" y="0.22"/>
+<vertex x="-3.72" y="0.3"/>
+<vertex x="-3.65" y="0.31"/>
+<vertex x="-3.22" y="0.31"/>
+<vertex x="-3.14" y="0.32"/>
+<vertex x="-3.09" y="0.37"/>
+<vertex x="-3.08" y="0.47"/>
+<vertex x="-3.1" y="0.56"/>
+<vertex x="-3.16" y="0.6"/>
+<vertex x="-3.24" y="0.6"/>
+<vertex x="-3.83" y="0.6"/>
+<vertex x="-3.93" y="0.6"/>
+<vertex x="-3.99" y="0.56"/>
+<vertex x="-4.01" y="0.48"/>
+<vertex x="-4.01" y="-0.46"/>
+<vertex x="-4" y="-0.54"/>
+<vertex x="-3.95" y="-0.58"/>
+<vertex x="-3.85" y="-0.59"/>
+<vertex x="-3.25" y="-0.59"/>
+<vertex x="-3.16" y="-0.59"/>
+<vertex x="-3.1" y="-0.56"/>
+<vertex x="-3.08" y="-0.48"/>
+<vertex x="-3.09" y="-0.37"/>
+<vertex x="-3.13" y="-0.32"/>
+<vertex x="-3.21" y="-0.3"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="-2.23" y="-0.15"/>
+<vertex x="-2.05" y="0.03"/>
+<vertex x="-2" y="0.1"/>
+<vertex x="-2.01" y="0.17"/>
+<vertex x="-2.07" y="0.25"/>
+<vertex x="-2.14" y="0.29"/>
+<vertex x="-2.21" y="0.26"/>
+<vertex x="-2.28" y="0.2"/>
+<vertex x="-2.4" y="0.07"/>
+<vertex x="-2.46" y="0.07"/>
+<vertex x="-2.58" y="0.19"/>
+<vertex x="-2.65" y="0.26"/>
+<vertex x="-2.71" y="0.29"/>
+<vertex x="-2.78" y="0.25"/>
+<vertex x="-2.85" y="0.17"/>
+<vertex x="-2.86" y="0.11"/>
+<vertex x="-2.82" y="0.04"/>
+<vertex x="-2.63" y="-0.15"/>
+<vertex x="-2.68" y="-0.21"/>
+<vertex x="-2.8" y="-0.33"/>
+<vertex x="-2.86" y="-0.41"/>
+<vertex x="-2.86" y="-0.47"/>
+<vertex x="-2.79" y="-0.55"/>
+<vertex x="-2.72" y="-0.59"/>
+<vertex x="-2.66" y="-0.57"/>
+<vertex x="-2.58" y="-0.51"/>
+<vertex x="-2.46" y="-0.39"/>
+<vertex x="-2.4" y="-0.38"/>
+<vertex x="-2.28" y="-0.5"/>
+<vertex x="-2.21" y="-0.57"/>
+<vertex x="-2.14" y="-0.59"/>
+<vertex x="-2.07" y="-0.55"/>
+<vertex x="-2" y="-0.48"/>
+<vertex x="-2" y="-0.41"/>
+<vertex x="-2.05" y="-0.34"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="-1.7" y="-0.86"/>
+<vertex x="-1.67" y="-0.93"/>
+<vertex x="-1.59" y="-0.96"/>
+<vertex x="-1.5" y="-0.95"/>
+<vertex x="-1.44" y="-0.91"/>
+<vertex x="-1.42" y="-0.83"/>
+<vertex x="-1.42" y="-0.49"/>
+<vertex x="-1.34" y="-0.27"/>
+<vertex x="-1.4" y="-0.21"/>
+<vertex x="-1.42" y="-0.14"/>
+<vertex x="-1.42" y="-0.09"/>
+<vertex x="-1.36" y="-0.03"/>
+<vertex x="-1.28" y="-0.01"/>
+<vertex x="-1.2" y="-0.03"/>
+<vertex x="-1.15" y="-0.09"/>
+<vertex x="-1.14" y="-0.18"/>
+<vertex x="-1.18" y="-0.25"/>
+<vertex x="-1.26" y="-0.29"/>
+<vertex x="-1.34" y="-0.28"/>
+<vertex x="-1.42" y="-0.49"/>
+<vertex x="-1.37" y="-0.53"/>
+<vertex x="-1.29" y="-0.55"/>
+<vertex x="-1.2" y="-0.56"/>
+<vertex x="-1.12" y="-0.54"/>
+<vertex x="-1.05" y="-0.5"/>
+<vertex x="-0.98" y="-0.44"/>
+<vertex x="-0.93" y="-0.37"/>
+<vertex x="-0.89" y="-0.3"/>
+<vertex x="-0.87" y="-0.22"/>
+<vertex x="-0.86" y="-0.14"/>
+<vertex x="-0.87" y="-0.05"/>
+<vertex x="-0.9" y="0.02"/>
+<vertex x="-0.94" y="0.1"/>
+<vertex x="-1" y="0.17"/>
+<vertex x="-1.07" y="0.22"/>
+<vertex x="-1.14" y="0.26"/>
+<vertex x="-1.22" y="0.27"/>
+<vertex x="-1.31" y="0.26"/>
+<vertex x="-1.38" y="0.23"/>
+<vertex x="-1.43" y="0.2"/>
+<vertex x="-1.47" y="0.26"/>
+<vertex x="-1.56" y="0.27"/>
+<vertex x="-1.66" y="0.26"/>
+<vertex x="-1.7" y="0.19"/>
+<vertex x="-1.7" y="-0.81"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="-0.61" y="0.53"/>
+<vertex x="-0.61" y="-0.23"/>
+<vertex x="-0.6" y="-0.34"/>
+<vertex x="-0.59" y="-0.42"/>
+<vertex x="-0.57" y="-0.49"/>
+<vertex x="-0.53" y="-0.54"/>
+<vertex x="-0.45" y="-0.57"/>
+<vertex x="-0.34" y="-0.59"/>
+<vertex x="-0.25" y="-0.59"/>
+<vertex x="-0.2" y="-0.57"/>
+<vertex x="-0.17" y="-0.5"/>
+<vertex x="-0.17" y="-0.39"/>
+<vertex x="-0.2" y="-0.33"/>
+<vertex x="-0.28" y="-0.32"/>
+<vertex x="-0.32" y="-0.26"/>
+<vertex x="-0.33" y="-0.17"/>
+<vertex x="-0.33" y="0.59"/>
+<vertex x="-0.36" y="0.65"/>
+<vertex x="-0.45" y="0.67"/>
+<vertex x="-0.55" y="0.66"/>
+<vertex x="-0.6" y="0.61"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="0.06" y="0.04"/>
+<vertex x="0.06" y="-0.13"/>
+<vertex x="0.07" y="-0.22"/>
+<vertex x="0.09" y="-0.3"/>
+<vertex x="0.13" y="-0.38"/>
+<vertex x="0.18" y="-0.44"/>
+<vertex x="0.24" y="-0.5"/>
+<vertex x="0.31" y="-0.54"/>
+<vertex x="0.45" y="-0.3"/>
+<vertex x="0.39" y="-0.25"/>
+<vertex x="0.35" y="-0.18"/>
+<vertex x="0.36" y="-0.09"/>
+<vertex x="0.41" y="-0.02"/>
+<vertex x="0.48" y="0.01"/>
+<vertex x="0.57" y="0.01"/>
+<vertex x="0.63" y="-0.04"/>
+<vertex x="0.66" y="-0.12"/>
+<vertex x="0.65" y="-0.21"/>
+<vertex x="0.6" y="-0.27"/>
+<vertex x="0.52" y="-0.3"/>
+<vertex x="0.45" y="-0.3"/>
+<vertex x="0.32" y="-0.55"/>
+<vertex x="0.4" y="-0.58"/>
+<vertex x="0.48" y="-0.59"/>
+<vertex x="0.56" y="-0.59"/>
+<vertex x="0.64" y="-0.57"/>
+<vertex x="0.72" y="-0.54"/>
+<vertex x="0.79" y="-0.49"/>
+<vertex x="0.85" y="-0.43"/>
+<vertex x="0.9" y="-0.36"/>
+<vertex x="0.93" y="-0.28"/>
+<vertex x="0.95" y="-0.2"/>
+<vertex x="0.95" y="-0.11"/>
+<vertex x="0.94" y="-0.02"/>
+<vertex x="0.91" y="0.05"/>
+<vertex x="0.87" y="0.12"/>
+<vertex x="0.81" y="0.19"/>
+<vertex x="0.74" y="0.24"/>
+<vertex x="0.66" y="0.27"/>
+<vertex x="0.58" y="0.29"/>
+<vertex x="0.49" y="0.3"/>
+<vertex x="0.41" y="0.29"/>
+<vertex x="0.33" y="0.26"/>
+<vertex x="0.26" y="0.22"/>
+<vertex x="0.19" y="0.17"/>
+<vertex x="0.06" y="0.05"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="1.84" y="0.25"/>
+<vertex x="1.76" y="0.27"/>
+<vertex x="1.68" y="0.27"/>
+<vertex x="1.59" y="0.24"/>
+<vertex x="1.53" y="0.19"/>
+<vertex x="1.5" y="0.22"/>
+<vertex x="1.44" y="0.26"/>
+<vertex x="1.33" y="0.26"/>
+<vertex x="1.26" y="0.23"/>
+<vertex x="1.23" y="0.17"/>
+<vertex x="1.23" y="-0.51"/>
+<vertex x="1.27" y="-0.58"/>
+<vertex x="1.35" y="-0.59"/>
+<vertex x="1.45" y="-0.58"/>
+<vertex x="1.5" y="-0.53"/>
+<vertex x="1.51" y="-0.45"/>
+<vertex x="1.51" y="-0.12"/>
+<vertex x="1.54" y="-0.04"/>
+<vertex x="1.62" y="0"/>
+<vertex x="1.7" y="-0.01"/>
+<vertex x="1.78" y="-0.03"/>
+<vertex x="1.84" y="0.01"/>
+<vertex x="1.88" y="0.09"/>
+<vertex x="1.88" y="0.18"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="2.96" y="-0.14"/>
+<vertex x="2.96" y="-0.05"/>
+<vertex x="2.95" y="0.03"/>
+<vertex x="2.92" y="0.11"/>
+<vertex x="2.87" y="0.18"/>
+<vertex x="2.81" y="0.23"/>
+<vertex x="2.74" y="0.27"/>
+<vertex x="2.65" y="0.29"/>
+<vertex x="2.56" y="0.3"/>
+<vertex x="2.47" y="0.29"/>
+<vertex x="2.39" y="0.26"/>
+<vertex x="2.32" y="0.23"/>
+<vertex x="2.25" y="0.18"/>
+<vertex x="2.2" y="0.12"/>
+<vertex x="2.15" y="0.05"/>
+<vertex x="2.13" y="-0.03"/>
+<vertex x="2.11" y="-0.12"/>
+<vertex x="2.12" y="-0.2"/>
+<vertex x="2.13" y="-0.29"/>
+<vertex x="2.16" y="-0.36"/>
+<vertex x="2.21" y="-0.44"/>
+<vertex x="2.26" y="-0.5"/>
+<vertex x="2.34" y="-0.54"/>
+<vertex x="2.41" y="-0.57"/>
+<vertex x="2.5" y="-0.59"/>
+<vertex x="2.6" y="-0.59"/>
+<vertex x="2.72" y="-0.58"/>
+<vertex x="2.81" y="-0.56"/>
+<vertex x="2.88" y="-0.53"/>
+<vertex x="2.91" y="-0.49"/>
+<vertex x="2.91" y="-0.42"/>
+<vertex x="2.87" y="-0.34"/>
+<vertex x="2.8" y="-0.3"/>
+<vertex x="2.72" y="-0.33"/>
+<vertex x="2.65" y="-0.34"/>
+<vertex x="2.56" y="-0.35"/>
+<vertex x="2.48" y="-0.32"/>
+<vertex x="2.42" y="-0.26"/>
+<vertex x="2.48" y="-0.24"/>
+<vertex x="2.45" y="-0.09"/>
+<vertex x="2.43" y="-0.05"/>
+<vertex x="2.49" y="0.02"/>
+<vertex x="2.57" y="0.04"/>
+<vertex x="2.65" y="0.02"/>
+<vertex x="2.68" y="-0.06"/>
+<vertex x="2.62" y="-0.09"/>
+<vertex x="2.45" y="-0.09"/>
+<vertex x="2.48" y="-0.24"/>
+<vertex x="2.74" y="-0.24"/>
+<vertex x="2.82" y="-0.24"/>
+<vertex x="2.9" y="-0.2"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="3.85" y="0.25"/>
+<vertex x="3.77" y="0.27"/>
+<vertex x="3.69" y="0.27"/>
+<vertex x="3.6" y="0.24"/>
+<vertex x="3.53" y="0.19"/>
+<vertex x="3.51" y="0.22"/>
+<vertex x="3.45" y="0.26"/>
+<vertex x="3.34" y="0.26"/>
+<vertex x="3.26" y="0.23"/>
+<vertex x="3.24" y="0.17"/>
+<vertex x="3.24" y="-0.51"/>
+<vertex x="3.28" y="-0.58"/>
+<vertex x="3.36" y="-0.59"/>
+<vertex x="3.46" y="-0.58"/>
+<vertex x="3.51" y="-0.53"/>
+<vertex x="3.52" y="-0.45"/>
+<vertex x="3.52" y="-0.12"/>
+<vertex x="3.55" y="-0.04"/>
+<vertex x="3.62" y="0"/>
+<vertex x="3.71" y="-0.01"/>
+<vertex x="3.78" y="-0.03"/>
+<vertex x="3.85" y="0.01"/>
+<vertex x="3.88" y="0.09"/>
+<vertex x="3.89" y="0.18"/>
+</polygon>
+</package>
 </packages>
 </library>
 <library name="botmirror">
@@ -12104,9 +12404,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="U$7" library="top" package="#D7##CTS##26" value="" x="20.066" y="12.7" smashed="yes" rot="MR0"/>
 <element name="U$10" library="top" package="#D4#PICO#25" value="" x="19.812" y="10.16" smashed="yes" rot="MR0"/>
 <element name="U$24" library="topmirror" package="REGULATED1343" value="" x="17.78" y="41.402" smashed="yes" rot="MR0"/>
-<element name="U$25" library="top" package="XBEE340" value="" x="17.78" y="43.18" smashed="yes" rot="MR0"/>
-<element name="U$23" library="top" package="XBEE340" value="" x="17.78" y="43.18" smashed="yes" rot="MR0"/>
-<element name="U$28" library="top" package="XBEE340" value="" x="17.78" y="43.18" smashed="yes"/>
+<element name="U$25" library="top" package="XBEE340" value="" x="21.59" y="43.18" smashed="yes" rot="MR0"/>
+<element name="U$28" library="top" package="XBEE340" value="" x="13.97" y="43.18" smashed="yes"/>
 <element name="U$29" library="topmirror" package="REGULATED1343" value="" x="17.78" y="41.402" smashed="yes"/>
 <element name="U$31" library="botmirror" package="#D0#3" value="" x="21.971" y="33.02" smashed="yes"/>
 <element name="U$32" library="topmirror" package="#D1#AD1#SCL#8" value="" x="29.718" y="30.48" smashed="yes" rot="MR0"/>
@@ -12114,6 +12413,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="U$34" library="topmirror" package="#D3#AD3##CS##23" value="" x="29.591" y="25.273" smashed="yes" rot="MR0"/>
 <element name="LOGO4" library="SparkFun-Aesthetics" package="BLANK" value="SFE_LOGO_NAMEBLANK" x="-8.89" y="-27.94" smashed="yes"/>
 <element name="U$6" library="topmirror" package="#EN#17" value="" x="26.289" y="7.62" smashed="yes"/>
+<element name="U$33" library="topmirror" package="EXPLORER1344" value="" x="22.86" y="43.18" smashed="yes"/>
+<element name="U$23" library="topmirror" package="EXPLORER1344" value="" x="12.7" y="43.18" smashed="yes" rot="MR0"/>
 <element name="J7" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="53.848" y="5.08" smashed="yes">
 <attribute name="NAME" x="52.451" y="2.921" size="0.6096" layer="25" font="vector" ratio="20"/>
 <attribute name="PROD_ID" value="CONN-13694" x="53.848" y="6.35" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -12260,16 +12561,16 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="38.608" y="4.191" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="VALUE" x="38.608" y="0.889" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$33" library="top" package="#3V3#1" value="" x="50.165" y="33.02" smashed="yes"/>
-<element name="U$37" library="top" package="#I2C#33" value="" x="53.848" y="5.207" smashed="yes" rot="MR0"/>
-<element name="U$38" library="top" package="PWR26" value="" x="69.596" y="7.62" smashed="yes"/>
-<element name="U$39" library="top" package="ASSOC27" value="" x="68.834" y="13.589" smashed="yes"/>
-<element name="U$41" library="top" package="#3V3#1" value="" x="44.831" y="33.02" smashed="yes" rot="MR0"/>
-<element name="U$47" library="top" package="#VIN#4" value="" x="45.085" y="7.493" smashed="yes" rot="MR0"/>
-<element name="U$48" library="bot" package="D03" value="" x="65.151" y="3.175" smashed="yes" rot="R90"/>
-<element name="U$50" library="top" package="#RST#30" value="" x="42.164" y="3.175" smashed="yes" rot="R90"/>
-<element name="U$51" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="45.72" smashed="yes" rot="MR0"/>
-<element name="U$53" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="39.243" y="44.831" smashed="yes"/>
+<element name="U$37" library="top" package="#3V3#1" value="" x="50.165" y="33.02" smashed="yes"/>
+<element name="U$38" library="top" package="#I2C#33" value="" x="53.848" y="5.207" smashed="yes" rot="MR0"/>
+<element name="U$39" library="top" package="PWR26" value="" x="69.596" y="7.62" smashed="yes"/>
+<element name="U$41" library="top" package="ASSOC27" value="" x="68.834" y="13.589" smashed="yes"/>
+<element name="U$47" library="top" package="#3V3#1" value="" x="44.831" y="33.02" smashed="yes" rot="MR0"/>
+<element name="U$48" library="top" package="#VIN#4" value="" x="45.085" y="7.493" smashed="yes" rot="MR0"/>
+<element name="U$50" library="bot" package="D03" value="" x="65.151" y="3.175" smashed="yes" rot="R90"/>
+<element name="U$51" library="top" package="#RST#30" value="" x="42.164" y="3.175" smashed="yes" rot="R90"/>
+<element name="U$53" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="45.72" smashed="yes" rot="MR0"/>
+<element name="U$54" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="39.243" y="44.831" smashed="yes"/>
 <element name="D6" library="SparkFun-LED" package="LED-0603" value="Yellow" x="69.469" y="9.271" smashed="yes">
 <attribute name="NAME" x="69.469" y="9.906" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="DIO-09003" x="65.659" y="13.081" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -12284,30 +12585,30 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="69.088" y="8.128" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="69.088" y="10.414" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$54" library="top" package="RSSI31" value="" x="69.723" y="10.668" smashed="yes"/>
-<element name="U$55" library="topmirror" package="#D0#AD0#18" value="" x="64.262" y="33.02" smashed="yes" rot="MR0"/>
-<element name="U$56" library="topmirror" package="#D2#AD2#19" value="" x="64.262" y="27.94" smashed="yes" rot="MR0"/>
-<element name="U$57" library="topmirror" package="#D6##RTS##25" value="" x="64.262" y="22.733" smashed="yes" rot="MR0"/>
-<element name="U$58" library="topmirror" package="#D5#ASSOC#25" value="" x="65.278" y="20.32" smashed="yes" rot="MR0"/>
-<element name="U$67" library="topmirror" package="#D9##SLP##28" value="" x="64.135" y="15.24" smashed="yes" rot="MR0"/>
-<element name="U$68" library="topmirror" package="#GND#0" value="" x="44.831" y="10.16" smashed="yes" rot="MR0"/>
-<element name="U$69" library="topmirror" package="#D8##DTR##27" value="" x="43.434" y="12.7" smashed="yes" rot="MR0"/>
-<element name="U$70" library="topmirror" package="#RSSI#D10#17" value="" x="43.053" y="20.32" smashed="yes" rot="MR0"/>
-<element name="U$71" library="topmirror" package="#SDA#D11#9" value="" x="43.18" y="17.78" smashed="yes" rot="MR0"/>
-<element name="U$72" library="topmirror" package="##RST##15" value="" x="44.831" y="22.733" smashed="yes" rot="MR0"/>
-<element name="U$73" library="topmirror" package="#POCI#D12#24" value="" x="42.926" y="25.4" smashed="yes" rot="MR0"/>
-<element name="U$74" library="topmirror" package="#RXI#D14#15" value="" x="43.434" y="27.94" smashed="yes" rot="MR0"/>
-<element name="U$75" library="topmirror" package="#TXO#D13#13" value="" x="42.926" y="30.353" smashed="yes" rot="MR0"/>
-<element name="U$76" library="topmirror" package="#ALED#21" value="" x="65.532" y="12.446" smashed="yes" rot="MR0"/>
-<element name="U$77" library="topmirror" package="#PLED#20" value="" x="65.659" y="6.223" smashed="yes" rot="MR0"/>
-<element name="U$78" library="botmirror" package="#TXO#8" value="" x="50.292" y="30.48" smashed="yes"/>
-<element name="U$79" library="botmirror" package="#RXI#7" value="" x="49.911" y="27.94" smashed="yes"/>
-<element name="U$80" library="botmirror" package="#POCI#32" value="" x="50.419" y="25.4" smashed="yes"/>
-<element name="U$81" library="botmirror" package="##CS##26" value="" x="58.166" y="25.273" smashed="yes"/>
-<element name="U$82" library="botmirror" package="#SCLK#33" value="" x="57.15" y="27.94" smashed="yes"/>
-<element name="U$83" library="botmirror" package="#SCL#9" value="" x="57.658" y="30.48" smashed="yes"/>
-<element name="U$84" library="botmirror" package="#D0#3" value="" x="58.039" y="33.02" smashed="yes"/>
-<element name="U$85" library="top" package="#VIN#4" value="" x="45.085" y="7.493" smashed="yes"/>
+<element name="U$55" library="top" package="RSSI31" value="" x="69.723" y="10.668" smashed="yes"/>
+<element name="U$56" library="topmirror" package="#D0#AD0#18" value="" x="64.262" y="33.02" smashed="yes" rot="MR0"/>
+<element name="U$57" library="topmirror" package="#D2#AD2#19" value="" x="64.262" y="27.94" smashed="yes" rot="MR0"/>
+<element name="U$58" library="topmirror" package="#D6##RTS##25" value="" x="64.262" y="22.733" smashed="yes" rot="MR0"/>
+<element name="U$67" library="topmirror" package="#D5#ASSOC#25" value="" x="65.278" y="20.32" smashed="yes" rot="MR0"/>
+<element name="U$68" library="topmirror" package="#D9##SLP##28" value="" x="64.135" y="15.24" smashed="yes" rot="MR0"/>
+<element name="U$69" library="topmirror" package="#GND#0" value="" x="44.831" y="10.16" smashed="yes" rot="MR0"/>
+<element name="U$70" library="topmirror" package="#D8##DTR##27" value="" x="43.434" y="12.7" smashed="yes" rot="MR0"/>
+<element name="U$71" library="topmirror" package="#RSSI#D10#17" value="" x="43.053" y="20.32" smashed="yes" rot="MR0"/>
+<element name="U$72" library="topmirror" package="#SDA#D11#9" value="" x="43.18" y="17.78" smashed="yes" rot="MR0"/>
+<element name="U$73" library="topmirror" package="##RST##15" value="" x="44.831" y="22.733" smashed="yes" rot="MR0"/>
+<element name="U$74" library="topmirror" package="#POCI#D12#24" value="" x="42.926" y="25.4" smashed="yes" rot="MR0"/>
+<element name="U$75" library="topmirror" package="#RXI#D14#15" value="" x="43.434" y="27.94" smashed="yes" rot="MR0"/>
+<element name="U$76" library="topmirror" package="#TXO#D13#13" value="" x="42.926" y="30.353" smashed="yes" rot="MR0"/>
+<element name="U$77" library="topmirror" package="#ALED#21" value="" x="65.532" y="12.446" smashed="yes" rot="MR0"/>
+<element name="U$78" library="topmirror" package="#PLED#20" value="" x="65.659" y="6.223" smashed="yes" rot="MR0"/>
+<element name="U$79" library="botmirror" package="#TXO#8" value="" x="50.292" y="30.48" smashed="yes"/>
+<element name="U$80" library="botmirror" package="#RXI#7" value="" x="49.911" y="27.94" smashed="yes"/>
+<element name="U$81" library="botmirror" package="#POCI#32" value="" x="50.419" y="25.4" smashed="yes"/>
+<element name="U$82" library="botmirror" package="##CS##26" value="" x="58.166" y="25.273" smashed="yes"/>
+<element name="U$83" library="botmirror" package="#SCLK#33" value="" x="57.15" y="27.94" smashed="yes"/>
+<element name="U$84" library="botmirror" package="#SCL#9" value="" x="57.658" y="30.48" smashed="yes"/>
+<element name="U$85" library="botmirror" package="#D0#3" value="" x="58.039" y="33.02" smashed="yes"/>
+<element name="U$86" library="top" package="#VIN#4" value="" x="45.085" y="7.493" smashed="yes"/>
 <element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="27.178" y="-27.94" smashed="yes">
 <attribute name="DESIGNER" value="" x="27.178" y="-27.94" size="1.778" layer="27" display="off"/>
 <attribute name="REV" value="" x="27.178" y="-27.94" size="1.778" layer="27" display="off"/>
@@ -12330,17 +12631,16 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="CAP-11812" x="38.608" y="32.639" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="38.608" y="33.401" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$86" library="topmirror" package="#GND#0" value="" x="44.831" y="10.16" smashed="yes"/>
-<element name="U$87" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="45.72" smashed="yes"/>
-<element name="U$88" library="topmirror" package="#EN#17" value="" x="58.039" y="7.62" smashed="yes" rot="MR0"/>
-<element name="U$89" library="topmirror" package="#NC#1" value="" x="45.212" y="15.24" smashed="yes" rot="MR0"/>
-<element name="U$90" library="botmirror" package="#NC#3" value="" x="62.484" y="17.78" smashed="yes" rot="MR0"/>
-<element name="U$91" library="top" package="#D7##CTS##26" value="" x="56.134" y="12.7" smashed="yes" rot="MR0"/>
-<element name="U$92" library="top" package="#D4#PICO#25" value="" x="55.88" y="10.16" smashed="yes" rot="MR0"/>
-<element name="U$93" library="topmirror" package="REGULATED1343" value="" x="53.848" y="41.402" smashed="yes" rot="MR0"/>
-<element name="U$94" library="top" package="XBEE340" value="" x="53.848" y="43.18" smashed="yes" rot="MR0"/>
-<element name="U$95" library="top" package="XBEE340" value="" x="53.848" y="43.18" smashed="yes" rot="MR0"/>
-<element name="U$96" library="top" package="XBEE340" value="" x="53.848" y="43.18" smashed="yes"/>
+<element name="U$87" library="topmirror" package="#GND#0" value="" x="44.831" y="10.16" smashed="yes"/>
+<element name="U$88" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="45.72" smashed="yes"/>
+<element name="U$89" library="topmirror" package="#EN#17" value="" x="58.039" y="7.62" smashed="yes" rot="MR0"/>
+<element name="U$90" library="topmirror" package="#NC#1" value="" x="45.212" y="15.24" smashed="yes" rot="MR0"/>
+<element name="U$91" library="botmirror" package="#NC#3" value="" x="62.484" y="17.78" smashed="yes" rot="MR0"/>
+<element name="U$92" library="top" package="#D7##CTS##26" value="" x="56.134" y="12.7" smashed="yes" rot="MR0"/>
+<element name="U$93" library="top" package="#D4#PICO#25" value="" x="55.88" y="10.16" smashed="yes" rot="MR0"/>
+<element name="U$94" library="topmirror" package="REGULATED1343" value="" x="53.848" y="41.402" smashed="yes" rot="MR0"/>
+<element name="U$95" library="top" package="XBEE340" value="" x="57.658" y="43.18" smashed="yes" rot="MR0"/>
+<element name="U$96" library="top" package="XBEE340" value="" x="50.038" y="43.18" smashed="yes"/>
 <element name="U$97" library="topmirror" package="REGULATED1343" value="" x="53.848" y="41.402" smashed="yes"/>
 <element name="U$98" library="botmirror" package="#D0#3" value="" x="58.039" y="33.02" smashed="yes"/>
 <element name="U$99" library="topmirror" package="#D1#AD1#SCL#8" value="" x="65.786" y="30.48" smashed="yes" rot="MR0"/>
@@ -12348,6 +12648,8 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="U$101" library="topmirror" package="#D3#AD3##CS##23" value="" x="65.659" y="25.273" smashed="yes" rot="MR0"/>
 <element name="LOGO6" library="SparkFun-Aesthetics" package="BLANK" value="SFE_LOGO_NAMEBLANK" x="27.178" y="-27.94" smashed="yes"/>
 <element name="U$102" library="topmirror" package="#EN#17" value="" x="62.357" y="7.62" smashed="yes"/>
+<element name="U$103" library="topmirror" package="EXPLORER1344" value="" x="58.928" y="43.18" smashed="yes"/>
+<element name="U$104" library="topmirror" package="EXPLORER1344" value="" x="48.768" y="43.18" smashed="yes" rot="MR0"/>
 <element name="J13" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="89.916" y="5.08" smashed="yes">
 <attribute name="NAME" x="88.519" y="2.921" size="0.6096" layer="25" font="vector" ratio="20"/>
 <attribute name="PROD_ID" value="CONN-13694" x="89.916" y="6.35" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -12494,16 +12796,16 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="74.676" y="4.191" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="VALUE" x="74.676" y="0.889" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$103" library="top" package="#3V3#1" value="" x="86.233" y="33.02" smashed="yes"/>
-<element name="U$104" library="top" package="#I2C#33" value="" x="89.916" y="5.207" smashed="yes" rot="MR0"/>
-<element name="U$105" library="top" package="PWR26" value="" x="105.664" y="7.62" smashed="yes"/>
-<element name="U$106" library="top" package="ASSOC27" value="" x="104.902" y="13.589" smashed="yes"/>
-<element name="U$107" library="top" package="#3V3#1" value="" x="80.899" y="33.02" smashed="yes" rot="MR0"/>
-<element name="U$108" library="top" package="#VIN#4" value="" x="81.153" y="7.493" smashed="yes" rot="MR0"/>
-<element name="U$109" library="bot" package="D03" value="" x="101.219" y="3.175" smashed="yes" rot="R90"/>
-<element name="U$110" library="top" package="#RST#30" value="" x="78.232" y="3.175" smashed="yes" rot="R90"/>
-<element name="U$111" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="45.72" smashed="yes" rot="MR0"/>
-<element name="U$112" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="75.311" y="44.831" smashed="yes"/>
+<element name="U$105" library="top" package="#3V3#1" value="" x="86.233" y="33.02" smashed="yes"/>
+<element name="U$106" library="top" package="#I2C#33" value="" x="89.916" y="5.207" smashed="yes" rot="MR0"/>
+<element name="U$107" library="top" package="PWR26" value="" x="105.664" y="7.62" smashed="yes"/>
+<element name="U$108" library="top" package="ASSOC27" value="" x="104.902" y="13.589" smashed="yes"/>
+<element name="U$109" library="top" package="#3V3#1" value="" x="80.899" y="33.02" smashed="yes" rot="MR0"/>
+<element name="U$110" library="top" package="#VIN#4" value="" x="81.153" y="7.493" smashed="yes" rot="MR0"/>
+<element name="U$111" library="bot" package="D03" value="" x="101.219" y="3.175" smashed="yes" rot="R90"/>
+<element name="U$112" library="top" package="#RST#30" value="" x="78.232" y="3.175" smashed="yes" rot="R90"/>
+<element name="U$113" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="45.72" smashed="yes" rot="MR0"/>
+<element name="U$114" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="75.311" y="44.831" smashed="yes"/>
 <element name="D9" library="SparkFun-LED" package="LED-0603" value="Yellow" x="105.537" y="9.271" smashed="yes">
 <attribute name="NAME" x="105.537" y="9.906" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="DIO-09003" x="101.727" y="13.081" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -12518,30 +12820,30 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="105.156" y="8.128" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="105.156" y="10.414" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$113" library="top" package="RSSI31" value="" x="105.791" y="10.668" smashed="yes"/>
-<element name="U$114" library="topmirror" package="#D0#AD0#18" value="" x="100.33" y="33.02" smashed="yes" rot="MR0"/>
-<element name="U$115" library="topmirror" package="#D2#AD2#19" value="" x="100.33" y="27.94" smashed="yes" rot="MR0"/>
-<element name="U$116" library="topmirror" package="#D6##RTS##25" value="" x="100.33" y="22.733" smashed="yes" rot="MR0"/>
-<element name="U$117" library="topmirror" package="#D5#ASSOC#25" value="" x="101.346" y="20.32" smashed="yes" rot="MR0"/>
-<element name="U$118" library="topmirror" package="#D9##SLP##28" value="" x="100.203" y="15.24" smashed="yes" rot="MR0"/>
-<element name="U$119" library="topmirror" package="#GND#0" value="" x="80.899" y="10.16" smashed="yes" rot="MR0"/>
-<element name="U$120" library="topmirror" package="#D8##DTR##27" value="" x="79.502" y="12.7" smashed="yes" rot="MR0"/>
-<element name="U$121" library="topmirror" package="#RSSI#D10#17" value="" x="79.121" y="20.32" smashed="yes" rot="MR0"/>
-<element name="U$122" library="topmirror" package="#SDA#D11#9" value="" x="79.248" y="17.78" smashed="yes" rot="MR0"/>
-<element name="U$123" library="topmirror" package="##RST##15" value="" x="80.899" y="22.733" smashed="yes" rot="MR0"/>
-<element name="U$124" library="topmirror" package="#POCI#D12#24" value="" x="78.994" y="25.4" smashed="yes" rot="MR0"/>
-<element name="U$125" library="topmirror" package="#RXI#D14#15" value="" x="79.502" y="27.94" smashed="yes" rot="MR0"/>
-<element name="U$126" library="topmirror" package="#TXO#D13#13" value="" x="78.994" y="30.353" smashed="yes" rot="MR0"/>
-<element name="U$127" library="topmirror" package="#ALED#21" value="" x="101.6" y="12.446" smashed="yes" rot="MR0"/>
-<element name="U$128" library="topmirror" package="#PLED#20" value="" x="101.727" y="6.223" smashed="yes" rot="MR0"/>
-<element name="U$129" library="botmirror" package="#TXO#8" value="" x="86.36" y="30.48" smashed="yes"/>
-<element name="U$130" library="botmirror" package="#RXI#7" value="" x="85.979" y="27.94" smashed="yes"/>
-<element name="U$131" library="botmirror" package="#POCI#32" value="" x="86.487" y="25.4" smashed="yes"/>
-<element name="U$132" library="botmirror" package="##CS##26" value="" x="94.234" y="25.273" smashed="yes"/>
-<element name="U$133" library="botmirror" package="#SCLK#33" value="" x="93.218" y="27.94" smashed="yes"/>
-<element name="U$134" library="botmirror" package="#SCL#9" value="" x="93.726" y="30.48" smashed="yes"/>
-<element name="U$135" library="botmirror" package="#D0#3" value="" x="94.107" y="33.02" smashed="yes"/>
-<element name="U$136" library="top" package="#VIN#4" value="" x="81.153" y="7.493" smashed="yes"/>
+<element name="U$115" library="top" package="RSSI31" value="" x="105.791" y="10.668" smashed="yes"/>
+<element name="U$116" library="topmirror" package="#D0#AD0#18" value="" x="100.33" y="33.02" smashed="yes" rot="MR0"/>
+<element name="U$117" library="topmirror" package="#D2#AD2#19" value="" x="100.33" y="27.94" smashed="yes" rot="MR0"/>
+<element name="U$118" library="topmirror" package="#D6##RTS##25" value="" x="100.33" y="22.733" smashed="yes" rot="MR0"/>
+<element name="U$119" library="topmirror" package="#D5#ASSOC#25" value="" x="101.346" y="20.32" smashed="yes" rot="MR0"/>
+<element name="U$120" library="topmirror" package="#D9##SLP##28" value="" x="100.203" y="15.24" smashed="yes" rot="MR0"/>
+<element name="U$121" library="topmirror" package="#GND#0" value="" x="80.899" y="10.16" smashed="yes" rot="MR0"/>
+<element name="U$122" library="topmirror" package="#D8##DTR##27" value="" x="79.502" y="12.7" smashed="yes" rot="MR0"/>
+<element name="U$123" library="topmirror" package="#RSSI#D10#17" value="" x="79.121" y="20.32" smashed="yes" rot="MR0"/>
+<element name="U$124" library="topmirror" package="#SDA#D11#9" value="" x="79.248" y="17.78" smashed="yes" rot="MR0"/>
+<element name="U$125" library="topmirror" package="##RST##15" value="" x="80.899" y="22.733" smashed="yes" rot="MR0"/>
+<element name="U$126" library="topmirror" package="#POCI#D12#24" value="" x="78.994" y="25.4" smashed="yes" rot="MR0"/>
+<element name="U$127" library="topmirror" package="#RXI#D14#15" value="" x="79.502" y="27.94" smashed="yes" rot="MR0"/>
+<element name="U$128" library="topmirror" package="#TXO#D13#13" value="" x="78.994" y="30.353" smashed="yes" rot="MR0"/>
+<element name="U$129" library="topmirror" package="#ALED#21" value="" x="101.6" y="12.446" smashed="yes" rot="MR0"/>
+<element name="U$130" library="topmirror" package="#PLED#20" value="" x="101.727" y="6.223" smashed="yes" rot="MR0"/>
+<element name="U$131" library="botmirror" package="#TXO#8" value="" x="86.36" y="30.48" smashed="yes"/>
+<element name="U$132" library="botmirror" package="#RXI#7" value="" x="85.979" y="27.94" smashed="yes"/>
+<element name="U$133" library="botmirror" package="#POCI#32" value="" x="86.487" y="25.4" smashed="yes"/>
+<element name="U$134" library="botmirror" package="##CS##26" value="" x="94.234" y="25.273" smashed="yes"/>
+<element name="U$135" library="botmirror" package="#SCLK#33" value="" x="93.218" y="27.94" smashed="yes"/>
+<element name="U$136" library="botmirror" package="#SCL#9" value="" x="93.726" y="30.48" smashed="yes"/>
+<element name="U$137" library="botmirror" package="#D0#3" value="" x="94.107" y="33.02" smashed="yes"/>
+<element name="U$138" library="top" package="#VIN#4" value="" x="81.153" y="7.493" smashed="yes"/>
 <element name="FRAME3" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="63.246" y="-27.94" smashed="yes">
 <attribute name="DESIGNER" value="" x="63.246" y="-27.94" size="1.778" layer="27" display="off"/>
 <attribute name="REV" value="" x="63.246" y="-27.94" size="1.778" layer="27" display="off"/>
@@ -12564,24 +12866,25 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="CAP-11812" x="74.676" y="32.639" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="74.676" y="33.401" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$137" library="topmirror" package="#GND#0" value="" x="80.899" y="10.16" smashed="yes"/>
-<element name="U$138" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="45.72" smashed="yes"/>
-<element name="U$139" library="topmirror" package="#EN#17" value="" x="94.107" y="7.62" smashed="yes" rot="MR0"/>
-<element name="U$140" library="topmirror" package="#NC#1" value="" x="81.28" y="15.24" smashed="yes" rot="MR0"/>
-<element name="U$141" library="botmirror" package="#NC#3" value="" x="98.552" y="17.78" smashed="yes" rot="MR0"/>
-<element name="U$142" library="top" package="#D7##CTS##26" value="" x="92.202" y="12.7" smashed="yes" rot="MR0"/>
-<element name="U$143" library="top" package="#D4#PICO#25" value="" x="91.948" y="10.16" smashed="yes" rot="MR0"/>
-<element name="U$144" library="topmirror" package="REGULATED1343" value="" x="89.916" y="41.402" smashed="yes" rot="MR0"/>
-<element name="U$145" library="top" package="XBEE340" value="" x="89.916" y="43.18" smashed="yes" rot="MR0"/>
-<element name="U$146" library="top" package="XBEE340" value="" x="89.916" y="43.18" smashed="yes" rot="MR0"/>
-<element name="U$147" library="top" package="XBEE340" value="" x="89.916" y="43.18" smashed="yes"/>
-<element name="U$148" library="topmirror" package="REGULATED1343" value="" x="89.916" y="41.402" smashed="yes"/>
-<element name="U$149" library="botmirror" package="#D0#3" value="" x="94.107" y="33.02" smashed="yes"/>
-<element name="U$150" library="topmirror" package="#D1#AD1#SCL#8" value="" x="101.854" y="30.48" smashed="yes" rot="MR0"/>
-<element name="U$151" library="topmirror" package="#RLED#22" value="" x="101.727" y="9.271" smashed="yes" rot="MR0"/>
-<element name="U$152" library="topmirror" package="#D3#AD3##CS##23" value="" x="101.727" y="25.273" smashed="yes" rot="MR0"/>
+<element name="U$139" library="topmirror" package="#GND#0" value="" x="80.899" y="10.16" smashed="yes"/>
+<element name="U$140" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="45.72" smashed="yes"/>
+<element name="U$141" library="topmirror" package="#EN#17" value="" x="94.107" y="7.62" smashed="yes" rot="MR0"/>
+<element name="U$142" library="topmirror" package="#NC#1" value="" x="81.28" y="15.24" smashed="yes" rot="MR0"/>
+<element name="U$143" library="botmirror" package="#NC#3" value="" x="98.552" y="17.78" smashed="yes" rot="MR0"/>
+<element name="U$144" library="top" package="#D7##CTS##26" value="" x="92.202" y="12.7" smashed="yes" rot="MR0"/>
+<element name="U$145" library="top" package="#D4#PICO#25" value="" x="91.948" y="10.16" smashed="yes" rot="MR0"/>
+<element name="U$146" library="topmirror" package="REGULATED1343" value="" x="89.916" y="41.402" smashed="yes" rot="MR0"/>
+<element name="U$147" library="top" package="XBEE340" value="" x="93.726" y="43.18" smashed="yes" rot="MR0"/>
+<element name="U$148" library="top" package="XBEE340" value="" x="86.106" y="43.18" smashed="yes"/>
+<element name="U$149" library="topmirror" package="REGULATED1343" value="" x="89.916" y="41.402" smashed="yes"/>
+<element name="U$150" library="botmirror" package="#D0#3" value="" x="94.107" y="33.02" smashed="yes"/>
+<element name="U$151" library="topmirror" package="#D1#AD1#SCL#8" value="" x="101.854" y="30.48" smashed="yes" rot="MR0"/>
+<element name="U$152" library="topmirror" package="#RLED#22" value="" x="101.727" y="9.271" smashed="yes" rot="MR0"/>
+<element name="U$153" library="topmirror" package="#D3#AD3##CS##23" value="" x="101.727" y="25.273" smashed="yes" rot="MR0"/>
 <element name="LOGO9" library="SparkFun-Aesthetics" package="BLANK" value="SFE_LOGO_NAMEBLANK" x="63.246" y="-27.94" smashed="yes"/>
-<element name="U$153" library="topmirror" package="#EN#17" value="" x="98.425" y="7.62" smashed="yes"/>
+<element name="U$154" library="topmirror" package="#EN#17" value="" x="98.425" y="7.62" smashed="yes"/>
+<element name="U$155" library="topmirror" package="EXPLORER1344" value="" x="94.996" y="43.18" smashed="yes"/>
+<element name="U$156" library="topmirror" package="EXPLORER1344" value="" x="84.836" y="43.18" smashed="yes" rot="MR0"/>
 <element name="J19" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="17.78" y="57.658" smashed="yes">
 <attribute name="NAME" x="16.383" y="55.499" size="0.6096" layer="25" font="vector" ratio="20"/>
 <attribute name="PROD_ID" value="CONN-13694" x="17.78" y="58.928" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -12728,16 +13031,16 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="2.54" y="56.769" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="VALUE" x="2.54" y="53.467" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$154" library="top" package="#3V3#1" value="" x="14.097" y="85.598" smashed="yes"/>
-<element name="U$155" library="top" package="#I2C#33" value="" x="17.78" y="57.785" smashed="yes" rot="MR0"/>
-<element name="U$156" library="top" package="PWR26" value="" x="33.528" y="60.198" smashed="yes"/>
-<element name="U$157" library="top" package="ASSOC27" value="" x="32.766" y="66.167" smashed="yes"/>
-<element name="U$158" library="top" package="#3V3#1" value="" x="8.763" y="85.598" smashed="yes" rot="MR0"/>
-<element name="U$159" library="top" package="#VIN#4" value="" x="9.017" y="60.071" smashed="yes" rot="MR0"/>
-<element name="U$160" library="bot" package="D03" value="" x="29.083" y="55.753" smashed="yes" rot="R90"/>
-<element name="U$161" library="top" package="#RST#30" value="" x="6.096" y="55.753" smashed="yes" rot="R90"/>
-<element name="U$162" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="17.78" y="98.298" smashed="yes" rot="MR0"/>
-<element name="U$163" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="3.175" y="97.409" smashed="yes"/>
+<element name="U$157" library="top" package="#3V3#1" value="" x="14.097" y="85.598" smashed="yes"/>
+<element name="U$158" library="top" package="#I2C#33" value="" x="17.78" y="57.785" smashed="yes" rot="MR0"/>
+<element name="U$159" library="top" package="PWR26" value="" x="33.528" y="60.198" smashed="yes"/>
+<element name="U$160" library="top" package="ASSOC27" value="" x="32.766" y="66.167" smashed="yes"/>
+<element name="U$161" library="top" package="#3V3#1" value="" x="8.763" y="85.598" smashed="yes" rot="MR0"/>
+<element name="U$162" library="top" package="#VIN#4" value="" x="9.017" y="60.071" smashed="yes" rot="MR0"/>
+<element name="U$163" library="bot" package="D03" value="" x="29.083" y="55.753" smashed="yes" rot="R90"/>
+<element name="U$164" library="top" package="#RST#30" value="" x="6.096" y="55.753" smashed="yes" rot="R90"/>
+<element name="U$165" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="17.78" y="98.298" smashed="yes" rot="MR0"/>
+<element name="U$166" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="3.175" y="97.409" smashed="yes"/>
 <element name="D12" library="SparkFun-LED" package="LED-0603" value="Yellow" x="33.401" y="61.849" smashed="yes">
 <attribute name="NAME" x="33.401" y="62.484" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="DIO-09003" x="29.591" y="65.659" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -12752,30 +13055,30 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="33.02" y="60.706" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="33.02" y="62.992" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$164" library="top" package="RSSI31" value="" x="33.655" y="63.246" smashed="yes"/>
-<element name="U$165" library="topmirror" package="#D0#AD0#18" value="" x="28.194" y="85.598" smashed="yes" rot="MR0"/>
-<element name="U$166" library="topmirror" package="#D2#AD2#19" value="" x="28.194" y="80.518" smashed="yes" rot="MR0"/>
-<element name="U$167" library="topmirror" package="#D6##RTS##25" value="" x="28.194" y="75.311" smashed="yes" rot="MR0"/>
-<element name="U$168" library="topmirror" package="#D5#ASSOC#25" value="" x="29.21" y="72.898" smashed="yes" rot="MR0"/>
-<element name="U$169" library="topmirror" package="#D9##SLP##28" value="" x="28.067" y="67.818" smashed="yes" rot="MR0"/>
-<element name="U$170" library="topmirror" package="#GND#0" value="" x="8.763" y="62.738" smashed="yes" rot="MR0"/>
-<element name="U$171" library="topmirror" package="#D8##DTR##27" value="" x="7.366" y="65.278" smashed="yes" rot="MR0"/>
-<element name="U$172" library="topmirror" package="#RSSI#D10#17" value="" x="6.985" y="72.898" smashed="yes" rot="MR0"/>
-<element name="U$173" library="topmirror" package="#SDA#D11#9" value="" x="7.112" y="70.358" smashed="yes" rot="MR0"/>
-<element name="U$174" library="topmirror" package="##RST##15" value="" x="8.763" y="75.311" smashed="yes" rot="MR0"/>
-<element name="U$175" library="topmirror" package="#POCI#D12#24" value="" x="6.858" y="77.978" smashed="yes" rot="MR0"/>
-<element name="U$176" library="topmirror" package="#RXI#D14#15" value="" x="7.366" y="80.518" smashed="yes" rot="MR0"/>
-<element name="U$177" library="topmirror" package="#TXO#D13#13" value="" x="6.858" y="82.931" smashed="yes" rot="MR0"/>
-<element name="U$178" library="topmirror" package="#ALED#21" value="" x="29.464" y="65.024" smashed="yes" rot="MR0"/>
-<element name="U$179" library="topmirror" package="#PLED#20" value="" x="29.591" y="58.801" smashed="yes" rot="MR0"/>
-<element name="U$180" library="botmirror" package="#TXO#8" value="" x="14.224" y="83.058" smashed="yes"/>
-<element name="U$181" library="botmirror" package="#RXI#7" value="" x="13.843" y="80.518" smashed="yes"/>
-<element name="U$182" library="botmirror" package="#POCI#32" value="" x="14.351" y="77.978" smashed="yes"/>
-<element name="U$183" library="botmirror" package="##CS##26" value="" x="22.098" y="77.851" smashed="yes"/>
-<element name="U$184" library="botmirror" package="#SCLK#33" value="" x="21.082" y="80.518" smashed="yes"/>
-<element name="U$185" library="botmirror" package="#SCL#9" value="" x="21.59" y="83.058" smashed="yes"/>
-<element name="U$186" library="botmirror" package="#D0#3" value="" x="21.971" y="85.598" smashed="yes"/>
-<element name="U$187" library="top" package="#VIN#4" value="" x="9.017" y="60.071" smashed="yes"/>
+<element name="U$167" library="top" package="RSSI31" value="" x="33.655" y="63.246" smashed="yes"/>
+<element name="U$168" library="topmirror" package="#D0#AD0#18" value="" x="28.194" y="85.598" smashed="yes" rot="MR0"/>
+<element name="U$169" library="topmirror" package="#D2#AD2#19" value="" x="28.194" y="80.518" smashed="yes" rot="MR0"/>
+<element name="U$170" library="topmirror" package="#D6##RTS##25" value="" x="28.194" y="75.311" smashed="yes" rot="MR0"/>
+<element name="U$171" library="topmirror" package="#D5#ASSOC#25" value="" x="29.21" y="72.898" smashed="yes" rot="MR0"/>
+<element name="U$172" library="topmirror" package="#D9##SLP##28" value="" x="28.067" y="67.818" smashed="yes" rot="MR0"/>
+<element name="U$173" library="topmirror" package="#GND#0" value="" x="8.763" y="62.738" smashed="yes" rot="MR0"/>
+<element name="U$174" library="topmirror" package="#D8##DTR##27" value="" x="7.366" y="65.278" smashed="yes" rot="MR0"/>
+<element name="U$175" library="topmirror" package="#RSSI#D10#17" value="" x="6.985" y="72.898" smashed="yes" rot="MR0"/>
+<element name="U$176" library="topmirror" package="#SDA#D11#9" value="" x="7.112" y="70.358" smashed="yes" rot="MR0"/>
+<element name="U$177" library="topmirror" package="##RST##15" value="" x="8.763" y="75.311" smashed="yes" rot="MR0"/>
+<element name="U$178" library="topmirror" package="#POCI#D12#24" value="" x="6.858" y="77.978" smashed="yes" rot="MR0"/>
+<element name="U$179" library="topmirror" package="#RXI#D14#15" value="" x="7.366" y="80.518" smashed="yes" rot="MR0"/>
+<element name="U$180" library="topmirror" package="#TXO#D13#13" value="" x="6.858" y="82.931" smashed="yes" rot="MR0"/>
+<element name="U$181" library="topmirror" package="#ALED#21" value="" x="29.464" y="65.024" smashed="yes" rot="MR0"/>
+<element name="U$182" library="topmirror" package="#PLED#20" value="" x="29.591" y="58.801" smashed="yes" rot="MR0"/>
+<element name="U$183" library="botmirror" package="#TXO#8" value="" x="14.224" y="83.058" smashed="yes"/>
+<element name="U$184" library="botmirror" package="#RXI#7" value="" x="13.843" y="80.518" smashed="yes"/>
+<element name="U$185" library="botmirror" package="#POCI#32" value="" x="14.351" y="77.978" smashed="yes"/>
+<element name="U$186" library="botmirror" package="##CS##26" value="" x="22.098" y="77.851" smashed="yes"/>
+<element name="U$187" library="botmirror" package="#SCLK#33" value="" x="21.082" y="80.518" smashed="yes"/>
+<element name="U$188" library="botmirror" package="#SCL#9" value="" x="21.59" y="83.058" smashed="yes"/>
+<element name="U$189" library="botmirror" package="#D0#3" value="" x="21.971" y="85.598" smashed="yes"/>
+<element name="U$190" library="top" package="#VIN#4" value="" x="9.017" y="60.071" smashed="yes"/>
 <element name="FRAME4" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="-8.89" y="24.638" smashed="yes">
 <attribute name="DESIGNER" value="" x="-8.89" y="24.638" size="1.778" layer="27" display="off"/>
 <attribute name="REV" value="" x="-8.89" y="24.638" size="1.778" layer="27" display="off"/>
@@ -12798,24 +13101,25 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="CAP-11812" x="2.54" y="85.217" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="2.54" y="85.979" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$188" library="topmirror" package="#GND#0" value="" x="8.763" y="62.738" smashed="yes"/>
-<element name="U$189" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="17.78" y="98.298" smashed="yes"/>
-<element name="U$190" library="topmirror" package="#EN#17" value="" x="21.971" y="60.198" smashed="yes" rot="MR0"/>
-<element name="U$191" library="topmirror" package="#NC#1" value="" x="9.144" y="67.818" smashed="yes" rot="MR0"/>
-<element name="U$192" library="botmirror" package="#NC#3" value="" x="26.416" y="70.358" smashed="yes" rot="MR0"/>
-<element name="U$193" library="top" package="#D7##CTS##26" value="" x="20.066" y="65.278" smashed="yes" rot="MR0"/>
-<element name="U$194" library="top" package="#D4#PICO#25" value="" x="19.812" y="62.738" smashed="yes" rot="MR0"/>
-<element name="U$195" library="topmirror" package="REGULATED1343" value="" x="17.78" y="93.98" smashed="yes" rot="MR0"/>
-<element name="U$196" library="top" package="XBEE340" value="" x="17.78" y="95.758" smashed="yes" rot="MR0"/>
-<element name="U$197" library="top" package="XBEE340" value="" x="17.78" y="95.758" smashed="yes" rot="MR0"/>
-<element name="U$198" library="top" package="XBEE340" value="" x="17.78" y="95.758" smashed="yes"/>
-<element name="U$199" library="topmirror" package="REGULATED1343" value="" x="17.78" y="93.98" smashed="yes"/>
-<element name="U$200" library="botmirror" package="#D0#3" value="" x="21.971" y="85.598" smashed="yes"/>
-<element name="U$201" library="topmirror" package="#D1#AD1#SCL#8" value="" x="29.718" y="83.058" smashed="yes" rot="MR0"/>
-<element name="U$202" library="topmirror" package="#RLED#22" value="" x="29.591" y="61.849" smashed="yes" rot="MR0"/>
-<element name="U$203" library="topmirror" package="#D3#AD3##CS##23" value="" x="29.591" y="77.851" smashed="yes" rot="MR0"/>
+<element name="U$191" library="topmirror" package="#GND#0" value="" x="8.763" y="62.738" smashed="yes"/>
+<element name="U$192" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="17.78" y="98.298" smashed="yes"/>
+<element name="U$193" library="topmirror" package="#EN#17" value="" x="21.971" y="60.198" smashed="yes" rot="MR0"/>
+<element name="U$194" library="topmirror" package="#NC#1" value="" x="9.144" y="67.818" smashed="yes" rot="MR0"/>
+<element name="U$195" library="botmirror" package="#NC#3" value="" x="26.416" y="70.358" smashed="yes" rot="MR0"/>
+<element name="U$196" library="top" package="#D7##CTS##26" value="" x="20.066" y="65.278" smashed="yes" rot="MR0"/>
+<element name="U$197" library="top" package="#D4#PICO#25" value="" x="19.812" y="62.738" smashed="yes" rot="MR0"/>
+<element name="U$198" library="topmirror" package="REGULATED1343" value="" x="17.78" y="93.98" smashed="yes" rot="MR0"/>
+<element name="U$199" library="top" package="XBEE340" value="" x="21.59" y="95.758" smashed="yes" rot="MR0"/>
+<element name="U$200" library="top" package="XBEE340" value="" x="13.97" y="95.758" smashed="yes"/>
+<element name="U$201" library="topmirror" package="REGULATED1343" value="" x="17.78" y="93.98" smashed="yes"/>
+<element name="U$202" library="botmirror" package="#D0#3" value="" x="21.971" y="85.598" smashed="yes"/>
+<element name="U$203" library="topmirror" package="#D1#AD1#SCL#8" value="" x="29.718" y="83.058" smashed="yes" rot="MR0"/>
+<element name="U$204" library="topmirror" package="#RLED#22" value="" x="29.591" y="61.849" smashed="yes" rot="MR0"/>
+<element name="U$205" library="topmirror" package="#D3#AD3##CS##23" value="" x="29.591" y="77.851" smashed="yes" rot="MR0"/>
 <element name="LOGO12" library="SparkFun-Aesthetics" package="BLANK" value="SFE_LOGO_NAMEBLANK" x="-8.89" y="24.638" smashed="yes"/>
-<element name="U$204" library="topmirror" package="#EN#17" value="" x="26.289" y="60.198" smashed="yes"/>
+<element name="U$206" library="topmirror" package="#EN#17" value="" x="26.289" y="60.198" smashed="yes"/>
+<element name="U$207" library="topmirror" package="EXPLORER1344" value="" x="22.86" y="95.758" smashed="yes"/>
+<element name="U$208" library="topmirror" package="EXPLORER1344" value="" x="12.7" y="95.758" smashed="yes" rot="MR0"/>
 <element name="J25" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="53.848" y="57.658" smashed="yes">
 <attribute name="NAME" x="52.451" y="55.499" size="0.6096" layer="25" font="vector" ratio="20"/>
 <attribute name="PROD_ID" value="CONN-13694" x="53.848" y="58.928" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -12962,16 +13266,16 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="38.608" y="56.769" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="VALUE" x="38.608" y="53.467" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$205" library="top" package="#3V3#1" value="" x="50.165" y="85.598" smashed="yes"/>
-<element name="U$206" library="top" package="#I2C#33" value="" x="53.848" y="57.785" smashed="yes" rot="MR0"/>
-<element name="U$207" library="top" package="PWR26" value="" x="69.596" y="60.198" smashed="yes"/>
-<element name="U$208" library="top" package="ASSOC27" value="" x="68.834" y="66.167" smashed="yes"/>
-<element name="U$209" library="top" package="#3V3#1" value="" x="44.831" y="85.598" smashed="yes" rot="MR0"/>
-<element name="U$210" library="top" package="#VIN#4" value="" x="45.085" y="60.071" smashed="yes" rot="MR0"/>
-<element name="U$211" library="bot" package="D03" value="" x="65.151" y="55.753" smashed="yes" rot="R90"/>
-<element name="U$212" library="top" package="#RST#30" value="" x="42.164" y="55.753" smashed="yes" rot="R90"/>
-<element name="U$213" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="98.298" smashed="yes" rot="MR0"/>
-<element name="U$214" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="39.243" y="97.409" smashed="yes"/>
+<element name="U$209" library="top" package="#3V3#1" value="" x="50.165" y="85.598" smashed="yes"/>
+<element name="U$210" library="top" package="#I2C#33" value="" x="53.848" y="57.785" smashed="yes" rot="MR0"/>
+<element name="U$211" library="top" package="PWR26" value="" x="69.596" y="60.198" smashed="yes"/>
+<element name="U$212" library="top" package="ASSOC27" value="" x="68.834" y="66.167" smashed="yes"/>
+<element name="U$213" library="top" package="#3V3#1" value="" x="44.831" y="85.598" smashed="yes" rot="MR0"/>
+<element name="U$214" library="top" package="#VIN#4" value="" x="45.085" y="60.071" smashed="yes" rot="MR0"/>
+<element name="U$215" library="bot" package="D03" value="" x="65.151" y="55.753" smashed="yes" rot="R90"/>
+<element name="U$216" library="top" package="#RST#30" value="" x="42.164" y="55.753" smashed="yes" rot="R90"/>
+<element name="U$217" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="98.298" smashed="yes" rot="MR0"/>
+<element name="U$218" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="39.243" y="97.409" smashed="yes"/>
 <element name="D15" library="SparkFun-LED" package="LED-0603" value="Yellow" x="69.469" y="61.849" smashed="yes">
 <attribute name="NAME" x="69.469" y="62.484" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="DIO-09003" x="65.659" y="65.659" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -12986,30 +13290,30 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="69.088" y="60.706" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="69.088" y="62.992" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$215" library="top" package="RSSI31" value="" x="69.723" y="63.246" smashed="yes"/>
-<element name="U$216" library="topmirror" package="#D0#AD0#18" value="" x="64.262" y="85.598" smashed="yes" rot="MR0"/>
-<element name="U$217" library="topmirror" package="#D2#AD2#19" value="" x="64.262" y="80.518" smashed="yes" rot="MR0"/>
-<element name="U$218" library="topmirror" package="#D6##RTS##25" value="" x="64.262" y="75.311" smashed="yes" rot="MR0"/>
-<element name="U$219" library="topmirror" package="#D5#ASSOC#25" value="" x="65.278" y="72.898" smashed="yes" rot="MR0"/>
-<element name="U$220" library="topmirror" package="#D9##SLP##28" value="" x="64.135" y="67.818" smashed="yes" rot="MR0"/>
-<element name="U$221" library="topmirror" package="#GND#0" value="" x="44.831" y="62.738" smashed="yes" rot="MR0"/>
-<element name="U$222" library="topmirror" package="#D8##DTR##27" value="" x="43.434" y="65.278" smashed="yes" rot="MR0"/>
-<element name="U$223" library="topmirror" package="#RSSI#D10#17" value="" x="43.053" y="72.898" smashed="yes" rot="MR0"/>
-<element name="U$224" library="topmirror" package="#SDA#D11#9" value="" x="43.18" y="70.358" smashed="yes" rot="MR0"/>
-<element name="U$225" library="topmirror" package="##RST##15" value="" x="44.831" y="75.311" smashed="yes" rot="MR0"/>
-<element name="U$226" library="topmirror" package="#POCI#D12#24" value="" x="42.926" y="77.978" smashed="yes" rot="MR0"/>
-<element name="U$227" library="topmirror" package="#RXI#D14#15" value="" x="43.434" y="80.518" smashed="yes" rot="MR0"/>
-<element name="U$228" library="topmirror" package="#TXO#D13#13" value="" x="42.926" y="82.931" smashed="yes" rot="MR0"/>
-<element name="U$229" library="topmirror" package="#ALED#21" value="" x="65.532" y="65.024" smashed="yes" rot="MR0"/>
-<element name="U$230" library="topmirror" package="#PLED#20" value="" x="65.659" y="58.801" smashed="yes" rot="MR0"/>
-<element name="U$231" library="botmirror" package="#TXO#8" value="" x="50.292" y="83.058" smashed="yes"/>
-<element name="U$232" library="botmirror" package="#RXI#7" value="" x="49.911" y="80.518" smashed="yes"/>
-<element name="U$233" library="botmirror" package="#POCI#32" value="" x="50.419" y="77.978" smashed="yes"/>
-<element name="U$234" library="botmirror" package="##CS##26" value="" x="58.166" y="77.851" smashed="yes"/>
-<element name="U$235" library="botmirror" package="#SCLK#33" value="" x="57.15" y="80.518" smashed="yes"/>
-<element name="U$236" library="botmirror" package="#SCL#9" value="" x="57.658" y="83.058" smashed="yes"/>
-<element name="U$237" library="botmirror" package="#D0#3" value="" x="58.039" y="85.598" smashed="yes"/>
-<element name="U$238" library="top" package="#VIN#4" value="" x="45.085" y="60.071" smashed="yes"/>
+<element name="U$219" library="top" package="RSSI31" value="" x="69.723" y="63.246" smashed="yes"/>
+<element name="U$220" library="topmirror" package="#D0#AD0#18" value="" x="64.262" y="85.598" smashed="yes" rot="MR0"/>
+<element name="U$221" library="topmirror" package="#D2#AD2#19" value="" x="64.262" y="80.518" smashed="yes" rot="MR0"/>
+<element name="U$222" library="topmirror" package="#D6##RTS##25" value="" x="64.262" y="75.311" smashed="yes" rot="MR0"/>
+<element name="U$223" library="topmirror" package="#D5#ASSOC#25" value="" x="65.278" y="72.898" smashed="yes" rot="MR0"/>
+<element name="U$224" library="topmirror" package="#D9##SLP##28" value="" x="64.135" y="67.818" smashed="yes" rot="MR0"/>
+<element name="U$225" library="topmirror" package="#GND#0" value="" x="44.831" y="62.738" smashed="yes" rot="MR0"/>
+<element name="U$226" library="topmirror" package="#D8##DTR##27" value="" x="43.434" y="65.278" smashed="yes" rot="MR0"/>
+<element name="U$227" library="topmirror" package="#RSSI#D10#17" value="" x="43.053" y="72.898" smashed="yes" rot="MR0"/>
+<element name="U$228" library="topmirror" package="#SDA#D11#9" value="" x="43.18" y="70.358" smashed="yes" rot="MR0"/>
+<element name="U$229" library="topmirror" package="##RST##15" value="" x="44.831" y="75.311" smashed="yes" rot="MR0"/>
+<element name="U$230" library="topmirror" package="#POCI#D12#24" value="" x="42.926" y="77.978" smashed="yes" rot="MR0"/>
+<element name="U$231" library="topmirror" package="#RXI#D14#15" value="" x="43.434" y="80.518" smashed="yes" rot="MR0"/>
+<element name="U$232" library="topmirror" package="#TXO#D13#13" value="" x="42.926" y="82.931" smashed="yes" rot="MR0"/>
+<element name="U$233" library="topmirror" package="#ALED#21" value="" x="65.532" y="65.024" smashed="yes" rot="MR0"/>
+<element name="U$234" library="topmirror" package="#PLED#20" value="" x="65.659" y="58.801" smashed="yes" rot="MR0"/>
+<element name="U$235" library="botmirror" package="#TXO#8" value="" x="50.292" y="83.058" smashed="yes"/>
+<element name="U$236" library="botmirror" package="#RXI#7" value="" x="49.911" y="80.518" smashed="yes"/>
+<element name="U$237" library="botmirror" package="#POCI#32" value="" x="50.419" y="77.978" smashed="yes"/>
+<element name="U$238" library="botmirror" package="##CS##26" value="" x="58.166" y="77.851" smashed="yes"/>
+<element name="U$239" library="botmirror" package="#SCLK#33" value="" x="57.15" y="80.518" smashed="yes"/>
+<element name="U$240" library="botmirror" package="#SCL#9" value="" x="57.658" y="83.058" smashed="yes"/>
+<element name="U$241" library="botmirror" package="#D0#3" value="" x="58.039" y="85.598" smashed="yes"/>
+<element name="U$242" library="top" package="#VIN#4" value="" x="45.085" y="60.071" smashed="yes"/>
 <element name="FRAME5" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="27.178" y="24.638" smashed="yes">
 <attribute name="DESIGNER" value="" x="27.178" y="24.638" size="1.778" layer="27" display="off"/>
 <attribute name="REV" value="" x="27.178" y="24.638" size="1.778" layer="27" display="off"/>
@@ -13032,24 +13336,25 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="CAP-11812" x="38.608" y="85.217" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="38.608" y="85.979" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$239" library="topmirror" package="#GND#0" value="" x="44.831" y="62.738" smashed="yes"/>
-<element name="U$240" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="98.298" smashed="yes"/>
-<element name="U$241" library="topmirror" package="#EN#17" value="" x="58.039" y="60.198" smashed="yes" rot="MR0"/>
-<element name="U$242" library="topmirror" package="#NC#1" value="" x="45.212" y="67.818" smashed="yes" rot="MR0"/>
-<element name="U$243" library="botmirror" package="#NC#3" value="" x="62.484" y="70.358" smashed="yes" rot="MR0"/>
-<element name="U$244" library="top" package="#D7##CTS##26" value="" x="56.134" y="65.278" smashed="yes" rot="MR0"/>
-<element name="U$245" library="top" package="#D4#PICO#25" value="" x="55.88" y="62.738" smashed="yes" rot="MR0"/>
-<element name="U$246" library="topmirror" package="REGULATED1343" value="" x="53.848" y="93.98" smashed="yes" rot="MR0"/>
-<element name="U$247" library="top" package="XBEE340" value="" x="53.848" y="95.758" smashed="yes" rot="MR0"/>
-<element name="U$248" library="top" package="XBEE340" value="" x="53.848" y="95.758" smashed="yes" rot="MR0"/>
-<element name="U$249" library="top" package="XBEE340" value="" x="53.848" y="95.758" smashed="yes"/>
-<element name="U$250" library="topmirror" package="REGULATED1343" value="" x="53.848" y="93.98" smashed="yes"/>
-<element name="U$251" library="botmirror" package="#D0#3" value="" x="58.039" y="85.598" smashed="yes"/>
-<element name="U$252" library="topmirror" package="#D1#AD1#SCL#8" value="" x="65.786" y="83.058" smashed="yes" rot="MR0"/>
-<element name="U$253" library="topmirror" package="#RLED#22" value="" x="65.659" y="61.849" smashed="yes" rot="MR0"/>
-<element name="U$254" library="topmirror" package="#D3#AD3##CS##23" value="" x="65.659" y="77.851" smashed="yes" rot="MR0"/>
+<element name="U$243" library="topmirror" package="#GND#0" value="" x="44.831" y="62.738" smashed="yes"/>
+<element name="U$244" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="98.298" smashed="yes"/>
+<element name="U$245" library="topmirror" package="#EN#17" value="" x="58.039" y="60.198" smashed="yes" rot="MR0"/>
+<element name="U$246" library="topmirror" package="#NC#1" value="" x="45.212" y="67.818" smashed="yes" rot="MR0"/>
+<element name="U$247" library="botmirror" package="#NC#3" value="" x="62.484" y="70.358" smashed="yes" rot="MR0"/>
+<element name="U$248" library="top" package="#D7##CTS##26" value="" x="56.134" y="65.278" smashed="yes" rot="MR0"/>
+<element name="U$249" library="top" package="#D4#PICO#25" value="" x="55.88" y="62.738" smashed="yes" rot="MR0"/>
+<element name="U$250" library="topmirror" package="REGULATED1343" value="" x="53.848" y="93.98" smashed="yes" rot="MR0"/>
+<element name="U$251" library="top" package="XBEE340" value="" x="57.658" y="95.758" smashed="yes" rot="MR0"/>
+<element name="U$252" library="top" package="XBEE340" value="" x="50.038" y="95.758" smashed="yes"/>
+<element name="U$253" library="topmirror" package="REGULATED1343" value="" x="53.848" y="93.98" smashed="yes"/>
+<element name="U$254" library="botmirror" package="#D0#3" value="" x="58.039" y="85.598" smashed="yes"/>
+<element name="U$255" library="topmirror" package="#D1#AD1#SCL#8" value="" x="65.786" y="83.058" smashed="yes" rot="MR0"/>
+<element name="U$256" library="topmirror" package="#RLED#22" value="" x="65.659" y="61.849" smashed="yes" rot="MR0"/>
+<element name="U$257" library="topmirror" package="#D3#AD3##CS##23" value="" x="65.659" y="77.851" smashed="yes" rot="MR0"/>
 <element name="LOGO15" library="SparkFun-Aesthetics" package="BLANK" value="SFE_LOGO_NAMEBLANK" x="27.178" y="24.638" smashed="yes"/>
-<element name="U$255" library="topmirror" package="#EN#17" value="" x="62.357" y="60.198" smashed="yes"/>
+<element name="U$258" library="topmirror" package="#EN#17" value="" x="62.357" y="60.198" smashed="yes"/>
+<element name="U$259" library="topmirror" package="EXPLORER1344" value="" x="58.928" y="95.758" smashed="yes"/>
+<element name="U$260" library="topmirror" package="EXPLORER1344" value="" x="48.768" y="95.758" smashed="yes" rot="MR0"/>
 <element name="J31" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="89.916" y="57.658" smashed="yes">
 <attribute name="NAME" x="88.519" y="55.499" size="0.6096" layer="25" font="vector" ratio="20"/>
 <attribute name="PROD_ID" value="CONN-13694" x="89.916" y="58.928" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -13196,16 +13501,16 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="74.676" y="56.769" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="VALUE" x="74.676" y="53.467" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$256" library="top" package="#3V3#1" value="" x="86.233" y="85.598" smashed="yes"/>
-<element name="U$257" library="top" package="#I2C#33" value="" x="89.916" y="57.785" smashed="yes" rot="MR0"/>
-<element name="U$258" library="top" package="PWR26" value="" x="105.664" y="60.198" smashed="yes"/>
-<element name="U$259" library="top" package="ASSOC27" value="" x="104.902" y="66.167" smashed="yes"/>
-<element name="U$260" library="top" package="#3V3#1" value="" x="80.899" y="85.598" smashed="yes" rot="MR0"/>
-<element name="U$261" library="top" package="#VIN#4" value="" x="81.153" y="60.071" smashed="yes" rot="MR0"/>
-<element name="U$262" library="bot" package="D03" value="" x="101.219" y="55.753" smashed="yes" rot="R90"/>
-<element name="U$263" library="top" package="#RST#30" value="" x="78.232" y="55.753" smashed="yes" rot="R90"/>
-<element name="U$264" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="98.298" smashed="yes" rot="MR0"/>
-<element name="U$265" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="75.311" y="97.409" smashed="yes"/>
+<element name="U$261" library="top" package="#3V3#1" value="" x="86.233" y="85.598" smashed="yes"/>
+<element name="U$262" library="top" package="#I2C#33" value="" x="89.916" y="57.785" smashed="yes" rot="MR0"/>
+<element name="U$263" library="top" package="PWR26" value="" x="105.664" y="60.198" smashed="yes"/>
+<element name="U$264" library="top" package="ASSOC27" value="" x="104.902" y="66.167" smashed="yes"/>
+<element name="U$265" library="top" package="#3V3#1" value="" x="80.899" y="85.598" smashed="yes" rot="MR0"/>
+<element name="U$266" library="top" package="#VIN#4" value="" x="81.153" y="60.071" smashed="yes" rot="MR0"/>
+<element name="U$267" library="bot" package="D03" value="" x="101.219" y="55.753" smashed="yes" rot="R90"/>
+<element name="U$268" library="top" package="#RST#30" value="" x="78.232" y="55.753" smashed="yes" rot="R90"/>
+<element name="U$269" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="98.298" smashed="yes" rot="MR0"/>
+<element name="U$270" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="75.311" y="97.409" smashed="yes"/>
 <element name="D18" library="SparkFun-LED" package="LED-0603" value="Yellow" x="105.537" y="61.849" smashed="yes">
 <attribute name="NAME" x="105.537" y="62.484" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="DIO-09003" x="101.727" y="65.659" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -13220,30 +13525,30 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="105.156" y="60.706" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="105.156" y="62.992" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$266" library="top" package="RSSI31" value="" x="105.791" y="63.246" smashed="yes"/>
-<element name="U$267" library="topmirror" package="#D0#AD0#18" value="" x="100.33" y="85.598" smashed="yes" rot="MR0"/>
-<element name="U$268" library="topmirror" package="#D2#AD2#19" value="" x="100.33" y="80.518" smashed="yes" rot="MR0"/>
-<element name="U$269" library="topmirror" package="#D6##RTS##25" value="" x="100.33" y="75.311" smashed="yes" rot="MR0"/>
-<element name="U$270" library="topmirror" package="#D5#ASSOC#25" value="" x="101.346" y="72.898" smashed="yes" rot="MR0"/>
-<element name="U$271" library="topmirror" package="#D9##SLP##28" value="" x="100.203" y="67.818" smashed="yes" rot="MR0"/>
-<element name="U$272" library="topmirror" package="#GND#0" value="" x="80.899" y="62.738" smashed="yes" rot="MR0"/>
-<element name="U$273" library="topmirror" package="#D8##DTR##27" value="" x="79.502" y="65.278" smashed="yes" rot="MR0"/>
-<element name="U$274" library="topmirror" package="#RSSI#D10#17" value="" x="79.121" y="72.898" smashed="yes" rot="MR0"/>
-<element name="U$275" library="topmirror" package="#SDA#D11#9" value="" x="79.248" y="70.358" smashed="yes" rot="MR0"/>
-<element name="U$276" library="topmirror" package="##RST##15" value="" x="80.899" y="75.311" smashed="yes" rot="MR0"/>
-<element name="U$277" library="topmirror" package="#POCI#D12#24" value="" x="78.994" y="77.978" smashed="yes" rot="MR0"/>
-<element name="U$278" library="topmirror" package="#RXI#D14#15" value="" x="79.502" y="80.518" smashed="yes" rot="MR0"/>
-<element name="U$279" library="topmirror" package="#TXO#D13#13" value="" x="78.994" y="82.931" smashed="yes" rot="MR0"/>
-<element name="U$280" library="topmirror" package="#ALED#21" value="" x="101.6" y="65.024" smashed="yes" rot="MR0"/>
-<element name="U$281" library="topmirror" package="#PLED#20" value="" x="101.727" y="58.801" smashed="yes" rot="MR0"/>
-<element name="U$282" library="botmirror" package="#TXO#8" value="" x="86.36" y="83.058" smashed="yes"/>
-<element name="U$283" library="botmirror" package="#RXI#7" value="" x="85.979" y="80.518" smashed="yes"/>
-<element name="U$284" library="botmirror" package="#POCI#32" value="" x="86.487" y="77.978" smashed="yes"/>
-<element name="U$285" library="botmirror" package="##CS##26" value="" x="94.234" y="77.851" smashed="yes"/>
-<element name="U$286" library="botmirror" package="#SCLK#33" value="" x="93.218" y="80.518" smashed="yes"/>
-<element name="U$287" library="botmirror" package="#SCL#9" value="" x="93.726" y="83.058" smashed="yes"/>
-<element name="U$288" library="botmirror" package="#D0#3" value="" x="94.107" y="85.598" smashed="yes"/>
-<element name="U$289" library="top" package="#VIN#4" value="" x="81.153" y="60.071" smashed="yes"/>
+<element name="U$271" library="top" package="RSSI31" value="" x="105.791" y="63.246" smashed="yes"/>
+<element name="U$272" library="topmirror" package="#D0#AD0#18" value="" x="100.33" y="85.598" smashed="yes" rot="MR0"/>
+<element name="U$273" library="topmirror" package="#D2#AD2#19" value="" x="100.33" y="80.518" smashed="yes" rot="MR0"/>
+<element name="U$274" library="topmirror" package="#D6##RTS##25" value="" x="100.33" y="75.311" smashed="yes" rot="MR0"/>
+<element name="U$275" library="topmirror" package="#D5#ASSOC#25" value="" x="101.346" y="72.898" smashed="yes" rot="MR0"/>
+<element name="U$276" library="topmirror" package="#D9##SLP##28" value="" x="100.203" y="67.818" smashed="yes" rot="MR0"/>
+<element name="U$277" library="topmirror" package="#GND#0" value="" x="80.899" y="62.738" smashed="yes" rot="MR0"/>
+<element name="U$278" library="topmirror" package="#D8##DTR##27" value="" x="79.502" y="65.278" smashed="yes" rot="MR0"/>
+<element name="U$279" library="topmirror" package="#RSSI#D10#17" value="" x="79.121" y="72.898" smashed="yes" rot="MR0"/>
+<element name="U$280" library="topmirror" package="#SDA#D11#9" value="" x="79.248" y="70.358" smashed="yes" rot="MR0"/>
+<element name="U$281" library="topmirror" package="##RST##15" value="" x="80.899" y="75.311" smashed="yes" rot="MR0"/>
+<element name="U$282" library="topmirror" package="#POCI#D12#24" value="" x="78.994" y="77.978" smashed="yes" rot="MR0"/>
+<element name="U$283" library="topmirror" package="#RXI#D14#15" value="" x="79.502" y="80.518" smashed="yes" rot="MR0"/>
+<element name="U$284" library="topmirror" package="#TXO#D13#13" value="" x="78.994" y="82.931" smashed="yes" rot="MR0"/>
+<element name="U$285" library="topmirror" package="#ALED#21" value="" x="101.6" y="65.024" smashed="yes" rot="MR0"/>
+<element name="U$286" library="topmirror" package="#PLED#20" value="" x="101.727" y="58.801" smashed="yes" rot="MR0"/>
+<element name="U$287" library="botmirror" package="#TXO#8" value="" x="86.36" y="83.058" smashed="yes"/>
+<element name="U$288" library="botmirror" package="#RXI#7" value="" x="85.979" y="80.518" smashed="yes"/>
+<element name="U$289" library="botmirror" package="#POCI#32" value="" x="86.487" y="77.978" smashed="yes"/>
+<element name="U$290" library="botmirror" package="##CS##26" value="" x="94.234" y="77.851" smashed="yes"/>
+<element name="U$291" library="botmirror" package="#SCLK#33" value="" x="93.218" y="80.518" smashed="yes"/>
+<element name="U$292" library="botmirror" package="#SCL#9" value="" x="93.726" y="83.058" smashed="yes"/>
+<element name="U$293" library="botmirror" package="#D0#3" value="" x="94.107" y="85.598" smashed="yes"/>
+<element name="U$294" library="top" package="#VIN#4" value="" x="81.153" y="60.071" smashed="yes"/>
 <element name="FRAME6" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="63.246" y="24.638" smashed="yes">
 <attribute name="DESIGNER" value="" x="63.246" y="24.638" size="1.778" layer="27" display="off"/>
 <attribute name="REV" value="" x="63.246" y="24.638" size="1.778" layer="27" display="off"/>
@@ -13266,24 +13571,25 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="CAP-11812" x="74.676" y="85.217" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="74.676" y="85.979" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$290" library="topmirror" package="#GND#0" value="" x="80.899" y="62.738" smashed="yes"/>
-<element name="U$291" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="98.298" smashed="yes"/>
-<element name="U$292" library="topmirror" package="#EN#17" value="" x="94.107" y="60.198" smashed="yes" rot="MR0"/>
-<element name="U$293" library="topmirror" package="#NC#1" value="" x="81.28" y="67.818" smashed="yes" rot="MR0"/>
-<element name="U$294" library="botmirror" package="#NC#3" value="" x="98.552" y="70.358" smashed="yes" rot="MR0"/>
-<element name="U$295" library="top" package="#D7##CTS##26" value="" x="92.202" y="65.278" smashed="yes" rot="MR0"/>
-<element name="U$296" library="top" package="#D4#PICO#25" value="" x="91.948" y="62.738" smashed="yes" rot="MR0"/>
-<element name="U$297" library="topmirror" package="REGULATED1343" value="" x="89.916" y="93.98" smashed="yes" rot="MR0"/>
-<element name="U$298" library="top" package="XBEE340" value="" x="89.916" y="95.758" smashed="yes" rot="MR0"/>
-<element name="U$299" library="top" package="XBEE340" value="" x="89.916" y="95.758" smashed="yes" rot="MR0"/>
-<element name="U$300" library="top" package="XBEE340" value="" x="89.916" y="95.758" smashed="yes"/>
-<element name="U$301" library="topmirror" package="REGULATED1343" value="" x="89.916" y="93.98" smashed="yes"/>
-<element name="U$302" library="botmirror" package="#D0#3" value="" x="94.107" y="85.598" smashed="yes"/>
-<element name="U$303" library="topmirror" package="#D1#AD1#SCL#8" value="" x="101.854" y="83.058" smashed="yes" rot="MR0"/>
-<element name="U$304" library="topmirror" package="#RLED#22" value="" x="101.727" y="61.849" smashed="yes" rot="MR0"/>
-<element name="U$305" library="topmirror" package="#D3#AD3##CS##23" value="" x="101.727" y="77.851" smashed="yes" rot="MR0"/>
+<element name="U$295" library="topmirror" package="#GND#0" value="" x="80.899" y="62.738" smashed="yes"/>
+<element name="U$296" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="98.298" smashed="yes"/>
+<element name="U$297" library="topmirror" package="#EN#17" value="" x="94.107" y="60.198" smashed="yes" rot="MR0"/>
+<element name="U$298" library="topmirror" package="#NC#1" value="" x="81.28" y="67.818" smashed="yes" rot="MR0"/>
+<element name="U$299" library="botmirror" package="#NC#3" value="" x="98.552" y="70.358" smashed="yes" rot="MR0"/>
+<element name="U$300" library="top" package="#D7##CTS##26" value="" x="92.202" y="65.278" smashed="yes" rot="MR0"/>
+<element name="U$301" library="top" package="#D4#PICO#25" value="" x="91.948" y="62.738" smashed="yes" rot="MR0"/>
+<element name="U$302" library="topmirror" package="REGULATED1343" value="" x="89.916" y="93.98" smashed="yes" rot="MR0"/>
+<element name="U$303" library="top" package="XBEE340" value="" x="93.726" y="95.758" smashed="yes" rot="MR0"/>
+<element name="U$304" library="top" package="XBEE340" value="" x="86.106" y="95.758" smashed="yes"/>
+<element name="U$305" library="topmirror" package="REGULATED1343" value="" x="89.916" y="93.98" smashed="yes"/>
+<element name="U$306" library="botmirror" package="#D0#3" value="" x="94.107" y="85.598" smashed="yes"/>
+<element name="U$307" library="topmirror" package="#D1#AD1#SCL#8" value="" x="101.854" y="83.058" smashed="yes" rot="MR0"/>
+<element name="U$308" library="topmirror" package="#RLED#22" value="" x="101.727" y="61.849" smashed="yes" rot="MR0"/>
+<element name="U$309" library="topmirror" package="#D3#AD3##CS##23" value="" x="101.727" y="77.851" smashed="yes" rot="MR0"/>
 <element name="LOGO18" library="SparkFun-Aesthetics" package="BLANK" value="SFE_LOGO_NAMEBLANK" x="63.246" y="24.638" smashed="yes"/>
-<element name="U$306" library="topmirror" package="#EN#17" value="" x="98.425" y="60.198" smashed="yes"/>
+<element name="U$310" library="topmirror" package="#EN#17" value="" x="98.425" y="60.198" smashed="yes"/>
+<element name="U$311" library="topmirror" package="EXPLORER1344" value="" x="94.996" y="95.758" smashed="yes"/>
+<element name="U$312" library="topmirror" package="EXPLORER1344" value="" x="84.836" y="95.758" smashed="yes" rot="MR0"/>
 <element name="J37" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="17.78" y="110.236" smashed="yes">
 <attribute name="NAME" x="16.383" y="108.077" size="0.6096" layer="25" font="vector" ratio="20"/>
 <attribute name="PROD_ID" value="CONN-13694" x="17.78" y="111.506" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -13430,16 +13736,16 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="2.54" y="109.347" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="VALUE" x="2.54" y="106.045" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$307" library="top" package="#3V3#1" value="" x="14.097" y="138.176" smashed="yes"/>
-<element name="U$308" library="top" package="#I2C#33" value="" x="17.78" y="110.363" smashed="yes" rot="MR0"/>
-<element name="U$309" library="top" package="PWR26" value="" x="33.528" y="112.776" smashed="yes"/>
-<element name="U$310" library="top" package="ASSOC27" value="" x="32.766" y="118.745" smashed="yes"/>
-<element name="U$311" library="top" package="#3V3#1" value="" x="8.763" y="138.176" smashed="yes" rot="MR0"/>
-<element name="U$312" library="top" package="#VIN#4" value="" x="9.017" y="112.649" smashed="yes" rot="MR0"/>
-<element name="U$313" library="bot" package="D03" value="" x="29.083" y="108.331" smashed="yes" rot="R90"/>
-<element name="U$314" library="top" package="#RST#30" value="" x="6.096" y="108.331" smashed="yes" rot="R90"/>
-<element name="U$315" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="17.78" y="150.876" smashed="yes" rot="MR0"/>
-<element name="U$316" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="3.175" y="149.987" smashed="yes"/>
+<element name="U$313" library="top" package="#3V3#1" value="" x="14.097" y="138.176" smashed="yes"/>
+<element name="U$314" library="top" package="#I2C#33" value="" x="17.78" y="110.363" smashed="yes" rot="MR0"/>
+<element name="U$315" library="top" package="PWR26" value="" x="33.528" y="112.776" smashed="yes"/>
+<element name="U$316" library="top" package="ASSOC27" value="" x="32.766" y="118.745" smashed="yes"/>
+<element name="U$317" library="top" package="#3V3#1" value="" x="8.763" y="138.176" smashed="yes" rot="MR0"/>
+<element name="U$318" library="top" package="#VIN#4" value="" x="9.017" y="112.649" smashed="yes" rot="MR0"/>
+<element name="U$319" library="bot" package="D03" value="" x="29.083" y="108.331" smashed="yes" rot="R90"/>
+<element name="U$320" library="top" package="#RST#30" value="" x="6.096" y="108.331" smashed="yes" rot="R90"/>
+<element name="U$321" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="17.78" y="150.876" smashed="yes" rot="MR0"/>
+<element name="U$322" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="3.175" y="149.987" smashed="yes"/>
 <element name="D21" library="SparkFun-LED" package="LED-0603" value="Yellow" x="33.401" y="114.427" smashed="yes">
 <attribute name="NAME" x="33.401" y="115.062" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="DIO-09003" x="29.591" y="118.237" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -13454,30 +13760,30 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="33.02" y="113.284" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="33.02" y="115.57" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$317" library="top" package="RSSI31" value="" x="33.655" y="115.824" smashed="yes"/>
-<element name="U$318" library="topmirror" package="#D0#AD0#18" value="" x="28.194" y="138.176" smashed="yes" rot="MR0"/>
-<element name="U$319" library="topmirror" package="#D2#AD2#19" value="" x="28.194" y="133.096" smashed="yes" rot="MR0"/>
-<element name="U$320" library="topmirror" package="#D6##RTS##25" value="" x="28.194" y="127.889" smashed="yes" rot="MR0"/>
-<element name="U$321" library="topmirror" package="#D5#ASSOC#25" value="" x="29.21" y="125.476" smashed="yes" rot="MR0"/>
-<element name="U$322" library="topmirror" package="#D9##SLP##28" value="" x="28.067" y="120.396" smashed="yes" rot="MR0"/>
-<element name="U$323" library="topmirror" package="#GND#0" value="" x="8.763" y="115.316" smashed="yes" rot="MR0"/>
-<element name="U$324" library="topmirror" package="#D8##DTR##27" value="" x="7.366" y="117.856" smashed="yes" rot="MR0"/>
-<element name="U$325" library="topmirror" package="#RSSI#D10#17" value="" x="6.985" y="125.476" smashed="yes" rot="MR0"/>
-<element name="U$326" library="topmirror" package="#SDA#D11#9" value="" x="7.112" y="122.936" smashed="yes" rot="MR0"/>
-<element name="U$327" library="topmirror" package="##RST##15" value="" x="8.763" y="127.889" smashed="yes" rot="MR0"/>
-<element name="U$328" library="topmirror" package="#POCI#D12#24" value="" x="6.858" y="130.556" smashed="yes" rot="MR0"/>
-<element name="U$329" library="topmirror" package="#RXI#D14#15" value="" x="7.366" y="133.096" smashed="yes" rot="MR0"/>
-<element name="U$330" library="topmirror" package="#TXO#D13#13" value="" x="6.858" y="135.509" smashed="yes" rot="MR0"/>
-<element name="U$331" library="topmirror" package="#ALED#21" value="" x="29.464" y="117.602" smashed="yes" rot="MR0"/>
-<element name="U$332" library="topmirror" package="#PLED#20" value="" x="29.591" y="111.379" smashed="yes" rot="MR0"/>
-<element name="U$333" library="botmirror" package="#TXO#8" value="" x="14.224" y="135.636" smashed="yes"/>
-<element name="U$334" library="botmirror" package="#RXI#7" value="" x="13.843" y="133.096" smashed="yes"/>
-<element name="U$335" library="botmirror" package="#POCI#32" value="" x="14.351" y="130.556" smashed="yes"/>
-<element name="U$336" library="botmirror" package="##CS##26" value="" x="22.098" y="130.429" smashed="yes"/>
-<element name="U$337" library="botmirror" package="#SCLK#33" value="" x="21.082" y="133.096" smashed="yes"/>
-<element name="U$338" library="botmirror" package="#SCL#9" value="" x="21.59" y="135.636" smashed="yes"/>
-<element name="U$339" library="botmirror" package="#D0#3" value="" x="21.971" y="138.176" smashed="yes"/>
-<element name="U$340" library="top" package="#VIN#4" value="" x="9.017" y="112.649" smashed="yes"/>
+<element name="U$323" library="top" package="RSSI31" value="" x="33.655" y="115.824" smashed="yes"/>
+<element name="U$324" library="topmirror" package="#D0#AD0#18" value="" x="28.194" y="138.176" smashed="yes" rot="MR0"/>
+<element name="U$325" library="topmirror" package="#D2#AD2#19" value="" x="28.194" y="133.096" smashed="yes" rot="MR0"/>
+<element name="U$326" library="topmirror" package="#D6##RTS##25" value="" x="28.194" y="127.889" smashed="yes" rot="MR0"/>
+<element name="U$327" library="topmirror" package="#D5#ASSOC#25" value="" x="29.21" y="125.476" smashed="yes" rot="MR0"/>
+<element name="U$328" library="topmirror" package="#D9##SLP##28" value="" x="28.067" y="120.396" smashed="yes" rot="MR0"/>
+<element name="U$329" library="topmirror" package="#GND#0" value="" x="8.763" y="115.316" smashed="yes" rot="MR0"/>
+<element name="U$330" library="topmirror" package="#D8##DTR##27" value="" x="7.366" y="117.856" smashed="yes" rot="MR0"/>
+<element name="U$331" library="topmirror" package="#RSSI#D10#17" value="" x="6.985" y="125.476" smashed="yes" rot="MR0"/>
+<element name="U$332" library="topmirror" package="#SDA#D11#9" value="" x="7.112" y="122.936" smashed="yes" rot="MR0"/>
+<element name="U$333" library="topmirror" package="##RST##15" value="" x="8.763" y="127.889" smashed="yes" rot="MR0"/>
+<element name="U$334" library="topmirror" package="#POCI#D12#24" value="" x="6.858" y="130.556" smashed="yes" rot="MR0"/>
+<element name="U$335" library="topmirror" package="#RXI#D14#15" value="" x="7.366" y="133.096" smashed="yes" rot="MR0"/>
+<element name="U$336" library="topmirror" package="#TXO#D13#13" value="" x="6.858" y="135.509" smashed="yes" rot="MR0"/>
+<element name="U$337" library="topmirror" package="#ALED#21" value="" x="29.464" y="117.602" smashed="yes" rot="MR0"/>
+<element name="U$338" library="topmirror" package="#PLED#20" value="" x="29.591" y="111.379" smashed="yes" rot="MR0"/>
+<element name="U$339" library="botmirror" package="#TXO#8" value="" x="14.224" y="135.636" smashed="yes"/>
+<element name="U$340" library="botmirror" package="#RXI#7" value="" x="13.843" y="133.096" smashed="yes"/>
+<element name="U$341" library="botmirror" package="#POCI#32" value="" x="14.351" y="130.556" smashed="yes"/>
+<element name="U$342" library="botmirror" package="##CS##26" value="" x="22.098" y="130.429" smashed="yes"/>
+<element name="U$343" library="botmirror" package="#SCLK#33" value="" x="21.082" y="133.096" smashed="yes"/>
+<element name="U$344" library="botmirror" package="#SCL#9" value="" x="21.59" y="135.636" smashed="yes"/>
+<element name="U$345" library="botmirror" package="#D0#3" value="" x="21.971" y="138.176" smashed="yes"/>
+<element name="U$346" library="top" package="#VIN#4" value="" x="9.017" y="112.649" smashed="yes"/>
 <element name="FRAME7" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="-8.89" y="77.216" smashed="yes">
 <attribute name="DESIGNER" value="" x="-8.89" y="77.216" size="1.778" layer="27" display="off"/>
 <attribute name="REV" value="" x="-8.89" y="77.216" size="1.778" layer="27" display="off"/>
@@ -13500,24 +13806,25 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="CAP-11812" x="2.54" y="137.795" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="2.54" y="138.557" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$341" library="topmirror" package="#GND#0" value="" x="8.763" y="115.316" smashed="yes"/>
-<element name="U$342" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="17.78" y="150.876" smashed="yes"/>
-<element name="U$343" library="topmirror" package="#EN#17" value="" x="21.971" y="112.776" smashed="yes" rot="MR0"/>
-<element name="U$344" library="topmirror" package="#NC#1" value="" x="9.144" y="120.396" smashed="yes" rot="MR0"/>
-<element name="U$345" library="botmirror" package="#NC#3" value="" x="26.416" y="122.936" smashed="yes" rot="MR0"/>
-<element name="U$346" library="top" package="#D7##CTS##26" value="" x="20.066" y="117.856" smashed="yes" rot="MR0"/>
-<element name="U$347" library="top" package="#D4#PICO#25" value="" x="19.812" y="115.316" smashed="yes" rot="MR0"/>
-<element name="U$348" library="topmirror" package="REGULATED1343" value="" x="17.78" y="146.558" smashed="yes" rot="MR0"/>
-<element name="U$349" library="top" package="XBEE340" value="" x="17.78" y="148.336" smashed="yes" rot="MR0"/>
-<element name="U$350" library="top" package="XBEE340" value="" x="17.78" y="148.336" smashed="yes" rot="MR0"/>
-<element name="U$351" library="top" package="XBEE340" value="" x="17.78" y="148.336" smashed="yes"/>
-<element name="U$352" library="topmirror" package="REGULATED1343" value="" x="17.78" y="146.558" smashed="yes"/>
-<element name="U$353" library="botmirror" package="#D0#3" value="" x="21.971" y="138.176" smashed="yes"/>
-<element name="U$354" library="topmirror" package="#D1#AD1#SCL#8" value="" x="29.718" y="135.636" smashed="yes" rot="MR0"/>
-<element name="U$355" library="topmirror" package="#RLED#22" value="" x="29.591" y="114.427" smashed="yes" rot="MR0"/>
-<element name="U$356" library="topmirror" package="#D3#AD3##CS##23" value="" x="29.591" y="130.429" smashed="yes" rot="MR0"/>
+<element name="U$347" library="topmirror" package="#GND#0" value="" x="8.763" y="115.316" smashed="yes"/>
+<element name="U$348" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="17.78" y="150.876" smashed="yes"/>
+<element name="U$349" library="topmirror" package="#EN#17" value="" x="21.971" y="112.776" smashed="yes" rot="MR0"/>
+<element name="U$350" library="topmirror" package="#NC#1" value="" x="9.144" y="120.396" smashed="yes" rot="MR0"/>
+<element name="U$351" library="botmirror" package="#NC#3" value="" x="26.416" y="122.936" smashed="yes" rot="MR0"/>
+<element name="U$352" library="top" package="#D7##CTS##26" value="" x="20.066" y="117.856" smashed="yes" rot="MR0"/>
+<element name="U$353" library="top" package="#D4#PICO#25" value="" x="19.812" y="115.316" smashed="yes" rot="MR0"/>
+<element name="U$354" library="topmirror" package="REGULATED1343" value="" x="17.78" y="146.558" smashed="yes" rot="MR0"/>
+<element name="U$355" library="top" package="XBEE340" value="" x="21.59" y="148.336" smashed="yes" rot="MR0"/>
+<element name="U$356" library="top" package="XBEE340" value="" x="13.97" y="148.336" smashed="yes"/>
+<element name="U$357" library="topmirror" package="REGULATED1343" value="" x="17.78" y="146.558" smashed="yes"/>
+<element name="U$358" library="botmirror" package="#D0#3" value="" x="21.971" y="138.176" smashed="yes"/>
+<element name="U$359" library="topmirror" package="#D1#AD1#SCL#8" value="" x="29.718" y="135.636" smashed="yes" rot="MR0"/>
+<element name="U$360" library="topmirror" package="#RLED#22" value="" x="29.591" y="114.427" smashed="yes" rot="MR0"/>
+<element name="U$361" library="topmirror" package="#D3#AD3##CS##23" value="" x="29.591" y="130.429" smashed="yes" rot="MR0"/>
 <element name="LOGO21" library="SparkFun-Aesthetics" package="BLANK" value="SFE_LOGO_NAMEBLANK" x="-8.89" y="77.216" smashed="yes"/>
-<element name="U$357" library="topmirror" package="#EN#17" value="" x="26.289" y="112.776" smashed="yes"/>
+<element name="U$362" library="topmirror" package="#EN#17" value="" x="26.289" y="112.776" smashed="yes"/>
+<element name="U$363" library="topmirror" package="EXPLORER1344" value="" x="22.86" y="148.336" smashed="yes"/>
+<element name="U$364" library="topmirror" package="EXPLORER1344" value="" x="12.7" y="148.336" smashed="yes" rot="MR0"/>
 <element name="J43" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="53.848" y="110.236" smashed="yes">
 <attribute name="NAME" x="52.451" y="108.077" size="0.6096" layer="25" font="vector" ratio="20"/>
 <attribute name="PROD_ID" value="CONN-13694" x="53.848" y="111.506" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -13664,16 +13971,16 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="38.608" y="109.347" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="VALUE" x="38.608" y="106.045" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$358" library="top" package="#3V3#1" value="" x="50.165" y="138.176" smashed="yes"/>
-<element name="U$359" library="top" package="#I2C#33" value="" x="53.848" y="110.363" smashed="yes" rot="MR0"/>
-<element name="U$360" library="top" package="PWR26" value="" x="69.596" y="112.776" smashed="yes"/>
-<element name="U$361" library="top" package="ASSOC27" value="" x="68.834" y="118.745" smashed="yes"/>
-<element name="U$362" library="top" package="#3V3#1" value="" x="44.831" y="138.176" smashed="yes" rot="MR0"/>
-<element name="U$363" library="top" package="#VIN#4" value="" x="45.085" y="112.649" smashed="yes" rot="MR0"/>
-<element name="U$364" library="bot" package="D03" value="" x="65.151" y="108.331" smashed="yes" rot="R90"/>
-<element name="U$365" library="top" package="#RST#30" value="" x="42.164" y="108.331" smashed="yes" rot="R90"/>
-<element name="U$366" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="150.876" smashed="yes" rot="MR0"/>
-<element name="U$367" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="39.243" y="149.987" smashed="yes"/>
+<element name="U$365" library="top" package="#3V3#1" value="" x="50.165" y="138.176" smashed="yes"/>
+<element name="U$366" library="top" package="#I2C#33" value="" x="53.848" y="110.363" smashed="yes" rot="MR0"/>
+<element name="U$367" library="top" package="PWR26" value="" x="69.596" y="112.776" smashed="yes"/>
+<element name="U$368" library="top" package="ASSOC27" value="" x="68.834" y="118.745" smashed="yes"/>
+<element name="U$369" library="top" package="#3V3#1" value="" x="44.831" y="138.176" smashed="yes" rot="MR0"/>
+<element name="U$370" library="top" package="#VIN#4" value="" x="45.085" y="112.649" smashed="yes" rot="MR0"/>
+<element name="U$371" library="bot" package="D03" value="" x="65.151" y="108.331" smashed="yes" rot="R90"/>
+<element name="U$372" library="top" package="#RST#30" value="" x="42.164" y="108.331" smashed="yes" rot="R90"/>
+<element name="U$373" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="150.876" smashed="yes" rot="MR0"/>
+<element name="U$374" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="39.243" y="149.987" smashed="yes"/>
 <element name="D24" library="SparkFun-LED" package="LED-0603" value="Yellow" x="69.469" y="114.427" smashed="yes">
 <attribute name="NAME" x="69.469" y="115.062" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="DIO-09003" x="65.659" y="118.237" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -13688,30 +13995,30 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="69.088" y="113.284" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="69.088" y="115.57" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$368" library="top" package="RSSI31" value="" x="69.723" y="115.824" smashed="yes"/>
-<element name="U$369" library="topmirror" package="#D0#AD0#18" value="" x="64.262" y="138.176" smashed="yes" rot="MR0"/>
-<element name="U$370" library="topmirror" package="#D2#AD2#19" value="" x="64.262" y="133.096" smashed="yes" rot="MR0"/>
-<element name="U$371" library="topmirror" package="#D6##RTS##25" value="" x="64.262" y="127.889" smashed="yes" rot="MR0"/>
-<element name="U$372" library="topmirror" package="#D5#ASSOC#25" value="" x="65.278" y="125.476" smashed="yes" rot="MR0"/>
-<element name="U$373" library="topmirror" package="#D9##SLP##28" value="" x="64.135" y="120.396" smashed="yes" rot="MR0"/>
-<element name="U$374" library="topmirror" package="#GND#0" value="" x="44.831" y="115.316" smashed="yes" rot="MR0"/>
-<element name="U$375" library="topmirror" package="#D8##DTR##27" value="" x="43.434" y="117.856" smashed="yes" rot="MR0"/>
-<element name="U$376" library="topmirror" package="#RSSI#D10#17" value="" x="43.053" y="125.476" smashed="yes" rot="MR0"/>
-<element name="U$377" library="topmirror" package="#SDA#D11#9" value="" x="43.18" y="122.936" smashed="yes" rot="MR0"/>
-<element name="U$378" library="topmirror" package="##RST##15" value="" x="44.831" y="127.889" smashed="yes" rot="MR0"/>
-<element name="U$379" library="topmirror" package="#POCI#D12#24" value="" x="42.926" y="130.556" smashed="yes" rot="MR0"/>
-<element name="U$380" library="topmirror" package="#RXI#D14#15" value="" x="43.434" y="133.096" smashed="yes" rot="MR0"/>
-<element name="U$381" library="topmirror" package="#TXO#D13#13" value="" x="42.926" y="135.509" smashed="yes" rot="MR0"/>
-<element name="U$382" library="topmirror" package="#ALED#21" value="" x="65.532" y="117.602" smashed="yes" rot="MR0"/>
-<element name="U$383" library="topmirror" package="#PLED#20" value="" x="65.659" y="111.379" smashed="yes" rot="MR0"/>
-<element name="U$384" library="botmirror" package="#TXO#8" value="" x="50.292" y="135.636" smashed="yes"/>
-<element name="U$385" library="botmirror" package="#RXI#7" value="" x="49.911" y="133.096" smashed="yes"/>
-<element name="U$386" library="botmirror" package="#POCI#32" value="" x="50.419" y="130.556" smashed="yes"/>
-<element name="U$387" library="botmirror" package="##CS##26" value="" x="58.166" y="130.429" smashed="yes"/>
-<element name="U$388" library="botmirror" package="#SCLK#33" value="" x="57.15" y="133.096" smashed="yes"/>
-<element name="U$389" library="botmirror" package="#SCL#9" value="" x="57.658" y="135.636" smashed="yes"/>
-<element name="U$390" library="botmirror" package="#D0#3" value="" x="58.039" y="138.176" smashed="yes"/>
-<element name="U$391" library="top" package="#VIN#4" value="" x="45.085" y="112.649" smashed="yes"/>
+<element name="U$375" library="top" package="RSSI31" value="" x="69.723" y="115.824" smashed="yes"/>
+<element name="U$376" library="topmirror" package="#D0#AD0#18" value="" x="64.262" y="138.176" smashed="yes" rot="MR0"/>
+<element name="U$377" library="topmirror" package="#D2#AD2#19" value="" x="64.262" y="133.096" smashed="yes" rot="MR0"/>
+<element name="U$378" library="topmirror" package="#D6##RTS##25" value="" x="64.262" y="127.889" smashed="yes" rot="MR0"/>
+<element name="U$379" library="topmirror" package="#D5#ASSOC#25" value="" x="65.278" y="125.476" smashed="yes" rot="MR0"/>
+<element name="U$380" library="topmirror" package="#D9##SLP##28" value="" x="64.135" y="120.396" smashed="yes" rot="MR0"/>
+<element name="U$381" library="topmirror" package="#GND#0" value="" x="44.831" y="115.316" smashed="yes" rot="MR0"/>
+<element name="U$382" library="topmirror" package="#D8##DTR##27" value="" x="43.434" y="117.856" smashed="yes" rot="MR0"/>
+<element name="U$383" library="topmirror" package="#RSSI#D10#17" value="" x="43.053" y="125.476" smashed="yes" rot="MR0"/>
+<element name="U$384" library="topmirror" package="#SDA#D11#9" value="" x="43.18" y="122.936" smashed="yes" rot="MR0"/>
+<element name="U$385" library="topmirror" package="##RST##15" value="" x="44.831" y="127.889" smashed="yes" rot="MR0"/>
+<element name="U$386" library="topmirror" package="#POCI#D12#24" value="" x="42.926" y="130.556" smashed="yes" rot="MR0"/>
+<element name="U$387" library="topmirror" package="#RXI#D14#15" value="" x="43.434" y="133.096" smashed="yes" rot="MR0"/>
+<element name="U$388" library="topmirror" package="#TXO#D13#13" value="" x="42.926" y="135.509" smashed="yes" rot="MR0"/>
+<element name="U$389" library="topmirror" package="#ALED#21" value="" x="65.532" y="117.602" smashed="yes" rot="MR0"/>
+<element name="U$390" library="topmirror" package="#PLED#20" value="" x="65.659" y="111.379" smashed="yes" rot="MR0"/>
+<element name="U$391" library="botmirror" package="#TXO#8" value="" x="50.292" y="135.636" smashed="yes"/>
+<element name="U$392" library="botmirror" package="#RXI#7" value="" x="49.911" y="133.096" smashed="yes"/>
+<element name="U$393" library="botmirror" package="#POCI#32" value="" x="50.419" y="130.556" smashed="yes"/>
+<element name="U$394" library="botmirror" package="##CS##26" value="" x="58.166" y="130.429" smashed="yes"/>
+<element name="U$395" library="botmirror" package="#SCLK#33" value="" x="57.15" y="133.096" smashed="yes"/>
+<element name="U$396" library="botmirror" package="#SCL#9" value="" x="57.658" y="135.636" smashed="yes"/>
+<element name="U$397" library="botmirror" package="#D0#3" value="" x="58.039" y="138.176" smashed="yes"/>
+<element name="U$398" library="top" package="#VIN#4" value="" x="45.085" y="112.649" smashed="yes"/>
 <element name="FRAME8" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="27.178" y="77.216" smashed="yes">
 <attribute name="DESIGNER" value="" x="27.178" y="77.216" size="1.778" layer="27" display="off"/>
 <attribute name="REV" value="" x="27.178" y="77.216" size="1.778" layer="27" display="off"/>
@@ -13734,24 +14041,25 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="CAP-11812" x="38.608" y="137.795" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="38.608" y="138.557" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$392" library="topmirror" package="#GND#0" value="" x="44.831" y="115.316" smashed="yes"/>
-<element name="U$393" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="150.876" smashed="yes"/>
-<element name="U$394" library="topmirror" package="#EN#17" value="" x="58.039" y="112.776" smashed="yes" rot="MR0"/>
-<element name="U$395" library="topmirror" package="#NC#1" value="" x="45.212" y="120.396" smashed="yes" rot="MR0"/>
-<element name="U$396" library="botmirror" package="#NC#3" value="" x="62.484" y="122.936" smashed="yes" rot="MR0"/>
-<element name="U$397" library="top" package="#D7##CTS##26" value="" x="56.134" y="117.856" smashed="yes" rot="MR0"/>
-<element name="U$398" library="top" package="#D4#PICO#25" value="" x="55.88" y="115.316" smashed="yes" rot="MR0"/>
-<element name="U$399" library="topmirror" package="REGULATED1343" value="" x="53.848" y="146.558" smashed="yes" rot="MR0"/>
-<element name="U$400" library="top" package="XBEE340" value="" x="53.848" y="148.336" smashed="yes" rot="MR0"/>
-<element name="U$401" library="top" package="XBEE340" value="" x="53.848" y="148.336" smashed="yes" rot="MR0"/>
-<element name="U$402" library="top" package="XBEE340" value="" x="53.848" y="148.336" smashed="yes"/>
-<element name="U$403" library="topmirror" package="REGULATED1343" value="" x="53.848" y="146.558" smashed="yes"/>
-<element name="U$404" library="botmirror" package="#D0#3" value="" x="58.039" y="138.176" smashed="yes"/>
-<element name="U$405" library="topmirror" package="#D1#AD1#SCL#8" value="" x="65.786" y="135.636" smashed="yes" rot="MR0"/>
-<element name="U$406" library="topmirror" package="#RLED#22" value="" x="65.659" y="114.427" smashed="yes" rot="MR0"/>
-<element name="U$407" library="topmirror" package="#D3#AD3##CS##23" value="" x="65.659" y="130.429" smashed="yes" rot="MR0"/>
+<element name="U$399" library="topmirror" package="#GND#0" value="" x="44.831" y="115.316" smashed="yes"/>
+<element name="U$400" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="53.848" y="150.876" smashed="yes"/>
+<element name="U$401" library="topmirror" package="#EN#17" value="" x="58.039" y="112.776" smashed="yes" rot="MR0"/>
+<element name="U$402" library="topmirror" package="#NC#1" value="" x="45.212" y="120.396" smashed="yes" rot="MR0"/>
+<element name="U$403" library="botmirror" package="#NC#3" value="" x="62.484" y="122.936" smashed="yes" rot="MR0"/>
+<element name="U$404" library="top" package="#D7##CTS##26" value="" x="56.134" y="117.856" smashed="yes" rot="MR0"/>
+<element name="U$405" library="top" package="#D4#PICO#25" value="" x="55.88" y="115.316" smashed="yes" rot="MR0"/>
+<element name="U$406" library="topmirror" package="REGULATED1343" value="" x="53.848" y="146.558" smashed="yes" rot="MR0"/>
+<element name="U$407" library="top" package="XBEE340" value="" x="57.658" y="148.336" smashed="yes" rot="MR0"/>
+<element name="U$408" library="top" package="XBEE340" value="" x="50.038" y="148.336" smashed="yes"/>
+<element name="U$409" library="topmirror" package="REGULATED1343" value="" x="53.848" y="146.558" smashed="yes"/>
+<element name="U$410" library="botmirror" package="#D0#3" value="" x="58.039" y="138.176" smashed="yes"/>
+<element name="U$411" library="topmirror" package="#D1#AD1#SCL#8" value="" x="65.786" y="135.636" smashed="yes" rot="MR0"/>
+<element name="U$412" library="topmirror" package="#RLED#22" value="" x="65.659" y="114.427" smashed="yes" rot="MR0"/>
+<element name="U$413" library="topmirror" package="#D3#AD3##CS##23" value="" x="65.659" y="130.429" smashed="yes" rot="MR0"/>
 <element name="LOGO24" library="SparkFun-Aesthetics" package="BLANK" value="SFE_LOGO_NAMEBLANK" x="27.178" y="77.216" smashed="yes"/>
-<element name="U$408" library="topmirror" package="#EN#17" value="" x="62.357" y="112.776" smashed="yes"/>
+<element name="U$414" library="topmirror" package="#EN#17" value="" x="62.357" y="112.776" smashed="yes"/>
+<element name="U$415" library="topmirror" package="EXPLORER1344" value="" x="58.928" y="148.336" smashed="yes"/>
+<element name="U$416" library="topmirror" package="EXPLORER1344" value="" x="48.768" y="148.336" smashed="yes" rot="MR0"/>
 <element name="J49" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="89.916" y="110.236" smashed="yes">
 <attribute name="NAME" x="88.519" y="108.077" size="0.6096" layer="25" font="vector" ratio="20"/>
 <attribute name="PROD_ID" value="CONN-13694" x="89.916" y="111.506" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -13898,16 +14206,16 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="74.676" y="109.347" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="VALUE" x="74.676" y="106.045" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$409" library="top" package="#3V3#1" value="" x="86.233" y="138.176" smashed="yes"/>
-<element name="U$410" library="top" package="#I2C#33" value="" x="89.916" y="110.363" smashed="yes" rot="MR0"/>
-<element name="U$411" library="top" package="PWR26" value="" x="105.664" y="112.776" smashed="yes"/>
-<element name="U$412" library="top" package="ASSOC27" value="" x="104.902" y="118.745" smashed="yes"/>
-<element name="U$413" library="top" package="#3V3#1" value="" x="80.899" y="138.176" smashed="yes" rot="MR0"/>
-<element name="U$414" library="top" package="#VIN#4" value="" x="81.153" y="112.649" smashed="yes" rot="MR0"/>
-<element name="U$415" library="bot" package="D03" value="" x="101.219" y="108.331" smashed="yes" rot="R90"/>
-<element name="U$416" library="top" package="#RST#30" value="" x="78.232" y="108.331" smashed="yes" rot="R90"/>
-<element name="U$417" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="150.876" smashed="yes" rot="MR0"/>
-<element name="U$418" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="75.311" y="149.987" smashed="yes"/>
+<element name="U$417" library="top" package="#3V3#1" value="" x="86.233" y="138.176" smashed="yes"/>
+<element name="U$418" library="top" package="#I2C#33" value="" x="89.916" y="110.363" smashed="yes" rot="MR0"/>
+<element name="U$419" library="top" package="PWR26" value="" x="105.664" y="112.776" smashed="yes"/>
+<element name="U$420" library="top" package="ASSOC27" value="" x="104.902" y="118.745" smashed="yes"/>
+<element name="U$421" library="top" package="#3V3#1" value="" x="80.899" y="138.176" smashed="yes" rot="MR0"/>
+<element name="U$422" library="top" package="#VIN#4" value="" x="81.153" y="112.649" smashed="yes" rot="MR0"/>
+<element name="U$423" library="bot" package="D03" value="" x="101.219" y="108.331" smashed="yes" rot="R90"/>
+<element name="U$424" library="top" package="#RST#30" value="" x="78.232" y="108.331" smashed="yes" rot="R90"/>
+<element name="U$425" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="150.876" smashed="yes" rot="MR0"/>
+<element name="U$426" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="75.311" y="149.987" smashed="yes"/>
 <element name="D27" library="SparkFun-LED" package="LED-0603" value="Yellow" x="105.537" y="114.427" smashed="yes">
 <attribute name="NAME" x="105.537" y="115.062" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="DIO-09003" x="101.727" y="118.237" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -13922,30 +14230,30 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="NAME" x="105.156" y="113.284" size="0.6096" layer="26" font="vector" ratio="20" rot="MR180" align="bottom-center"/>
 <attribute name="VALUE" x="105.156" y="115.57" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$419" library="top" package="RSSI31" value="" x="105.791" y="115.824" smashed="yes"/>
-<element name="U$420" library="topmirror" package="#D0#AD0#18" value="" x="100.33" y="138.176" smashed="yes" rot="MR0"/>
-<element name="U$421" library="topmirror" package="#D2#AD2#19" value="" x="100.33" y="133.096" smashed="yes" rot="MR0"/>
-<element name="U$422" library="topmirror" package="#D6##RTS##25" value="" x="100.33" y="127.889" smashed="yes" rot="MR0"/>
-<element name="U$423" library="topmirror" package="#D5#ASSOC#25" value="" x="101.346" y="125.476" smashed="yes" rot="MR0"/>
-<element name="U$424" library="topmirror" package="#D9##SLP##28" value="" x="100.203" y="120.396" smashed="yes" rot="MR0"/>
-<element name="U$425" library="topmirror" package="#GND#0" value="" x="80.899" y="115.316" smashed="yes" rot="MR0"/>
-<element name="U$426" library="topmirror" package="#D8##DTR##27" value="" x="79.502" y="117.856" smashed="yes" rot="MR0"/>
-<element name="U$427" library="topmirror" package="#RSSI#D10#17" value="" x="79.121" y="125.476" smashed="yes" rot="MR0"/>
-<element name="U$428" library="topmirror" package="#SDA#D11#9" value="" x="79.248" y="122.936" smashed="yes" rot="MR0"/>
-<element name="U$429" library="topmirror" package="##RST##15" value="" x="80.899" y="127.889" smashed="yes" rot="MR0"/>
-<element name="U$430" library="topmirror" package="#POCI#D12#24" value="" x="78.994" y="130.556" smashed="yes" rot="MR0"/>
-<element name="U$431" library="topmirror" package="#RXI#D14#15" value="" x="79.502" y="133.096" smashed="yes" rot="MR0"/>
-<element name="U$432" library="topmirror" package="#TXO#D13#13" value="" x="78.994" y="135.509" smashed="yes" rot="MR0"/>
-<element name="U$433" library="topmirror" package="#ALED#21" value="" x="101.6" y="117.602" smashed="yes" rot="MR0"/>
-<element name="U$434" library="topmirror" package="#PLED#20" value="" x="101.727" y="111.379" smashed="yes" rot="MR0"/>
-<element name="U$435" library="botmirror" package="#TXO#8" value="" x="86.36" y="135.636" smashed="yes"/>
-<element name="U$436" library="botmirror" package="#RXI#7" value="" x="85.979" y="133.096" smashed="yes"/>
-<element name="U$437" library="botmirror" package="#POCI#32" value="" x="86.487" y="130.556" smashed="yes"/>
-<element name="U$438" library="botmirror" package="##CS##26" value="" x="94.234" y="130.429" smashed="yes"/>
-<element name="U$439" library="botmirror" package="#SCLK#33" value="" x="93.218" y="133.096" smashed="yes"/>
-<element name="U$440" library="botmirror" package="#SCL#9" value="" x="93.726" y="135.636" smashed="yes"/>
-<element name="U$441" library="botmirror" package="#D0#3" value="" x="94.107" y="138.176" smashed="yes"/>
-<element name="U$442" library="top" package="#VIN#4" value="" x="81.153" y="112.649" smashed="yes"/>
+<element name="U$427" library="top" package="RSSI31" value="" x="105.791" y="115.824" smashed="yes"/>
+<element name="U$428" library="topmirror" package="#D0#AD0#18" value="" x="100.33" y="138.176" smashed="yes" rot="MR0"/>
+<element name="U$429" library="topmirror" package="#D2#AD2#19" value="" x="100.33" y="133.096" smashed="yes" rot="MR0"/>
+<element name="U$430" library="topmirror" package="#D6##RTS##25" value="" x="100.33" y="127.889" smashed="yes" rot="MR0"/>
+<element name="U$431" library="topmirror" package="#D5#ASSOC#25" value="" x="101.346" y="125.476" smashed="yes" rot="MR0"/>
+<element name="U$432" library="topmirror" package="#D9##SLP##28" value="" x="100.203" y="120.396" smashed="yes" rot="MR0"/>
+<element name="U$433" library="topmirror" package="#GND#0" value="" x="80.899" y="115.316" smashed="yes" rot="MR0"/>
+<element name="U$434" library="topmirror" package="#D8##DTR##27" value="" x="79.502" y="117.856" smashed="yes" rot="MR0"/>
+<element name="U$435" library="topmirror" package="#RSSI#D10#17" value="" x="79.121" y="125.476" smashed="yes" rot="MR0"/>
+<element name="U$436" library="topmirror" package="#SDA#D11#9" value="" x="79.248" y="122.936" smashed="yes" rot="MR0"/>
+<element name="U$437" library="topmirror" package="##RST##15" value="" x="80.899" y="127.889" smashed="yes" rot="MR0"/>
+<element name="U$438" library="topmirror" package="#POCI#D12#24" value="" x="78.994" y="130.556" smashed="yes" rot="MR0"/>
+<element name="U$439" library="topmirror" package="#RXI#D14#15" value="" x="79.502" y="133.096" smashed="yes" rot="MR0"/>
+<element name="U$440" library="topmirror" package="#TXO#D13#13" value="" x="78.994" y="135.509" smashed="yes" rot="MR0"/>
+<element name="U$441" library="topmirror" package="#ALED#21" value="" x="101.6" y="117.602" smashed="yes" rot="MR0"/>
+<element name="U$442" library="topmirror" package="#PLED#20" value="" x="101.727" y="111.379" smashed="yes" rot="MR0"/>
+<element name="U$443" library="botmirror" package="#TXO#8" value="" x="86.36" y="135.636" smashed="yes"/>
+<element name="U$444" library="botmirror" package="#RXI#7" value="" x="85.979" y="133.096" smashed="yes"/>
+<element name="U$445" library="botmirror" package="#POCI#32" value="" x="86.487" y="130.556" smashed="yes"/>
+<element name="U$446" library="botmirror" package="##CS##26" value="" x="94.234" y="130.429" smashed="yes"/>
+<element name="U$447" library="botmirror" package="#SCLK#33" value="" x="93.218" y="133.096" smashed="yes"/>
+<element name="U$448" library="botmirror" package="#SCL#9" value="" x="93.726" y="135.636" smashed="yes"/>
+<element name="U$449" library="botmirror" package="#D0#3" value="" x="94.107" y="138.176" smashed="yes"/>
+<element name="U$450" library="top" package="#VIN#4" value="" x="81.153" y="112.649" smashed="yes"/>
 <element name="FRAME9" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="63.246" y="77.216" smashed="yes">
 <attribute name="DESIGNER" value="" x="63.246" y="77.216" size="1.778" layer="27" display="off"/>
 <attribute name="REV" value="" x="63.246" y="77.216" size="1.778" layer="27" display="off"/>
@@ -13968,24 +14276,25 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="CAP-11812" x="74.676" y="137.795" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="74.676" y="138.557" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$443" library="topmirror" package="#GND#0" value="" x="80.899" y="115.316" smashed="yes"/>
-<element name="U$444" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="150.876" smashed="yes"/>
-<element name="U$445" library="topmirror" package="#EN#17" value="" x="94.107" y="112.776" smashed="yes" rot="MR0"/>
-<element name="U$446" library="topmirror" package="#NC#1" value="" x="81.28" y="120.396" smashed="yes" rot="MR0"/>
-<element name="U$447" library="botmirror" package="#NC#3" value="" x="98.552" y="122.936" smashed="yes" rot="MR0"/>
-<element name="U$448" library="top" package="#D7##CTS##26" value="" x="92.202" y="117.856" smashed="yes" rot="MR0"/>
-<element name="U$449" library="top" package="#D4#PICO#25" value="" x="91.948" y="115.316" smashed="yes" rot="MR0"/>
-<element name="U$450" library="topmirror" package="REGULATED1343" value="" x="89.916" y="146.558" smashed="yes" rot="MR0"/>
-<element name="U$451" library="top" package="XBEE340" value="" x="89.916" y="148.336" smashed="yes" rot="MR0"/>
-<element name="U$452" library="top" package="XBEE340" value="" x="89.916" y="148.336" smashed="yes" rot="MR0"/>
-<element name="U$453" library="top" package="XBEE340" value="" x="89.916" y="148.336" smashed="yes"/>
-<element name="U$454" library="topmirror" package="REGULATED1343" value="" x="89.916" y="146.558" smashed="yes"/>
-<element name="U$455" library="botmirror" package="#D0#3" value="" x="94.107" y="138.176" smashed="yes"/>
-<element name="U$456" library="topmirror" package="#D1#AD1#SCL#8" value="" x="101.854" y="135.636" smashed="yes" rot="MR0"/>
-<element name="U$457" library="topmirror" package="#RLED#22" value="" x="101.727" y="114.427" smashed="yes" rot="MR0"/>
-<element name="U$458" library="topmirror" package="#D3#AD3##CS##23" value="" x="101.727" y="130.429" smashed="yes" rot="MR0"/>
+<element name="U$451" library="topmirror" package="#GND#0" value="" x="80.899" y="115.316" smashed="yes"/>
+<element name="U$452" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.2" value="" x="89.916" y="150.876" smashed="yes"/>
+<element name="U$453" library="topmirror" package="#EN#17" value="" x="94.107" y="112.776" smashed="yes" rot="MR0"/>
+<element name="U$454" library="topmirror" package="#NC#1" value="" x="81.28" y="120.396" smashed="yes" rot="MR0"/>
+<element name="U$455" library="botmirror" package="#NC#3" value="" x="98.552" y="122.936" smashed="yes" rot="MR0"/>
+<element name="U$456" library="top" package="#D7##CTS##26" value="" x="92.202" y="117.856" smashed="yes" rot="MR0"/>
+<element name="U$457" library="top" package="#D4#PICO#25" value="" x="91.948" y="115.316" smashed="yes" rot="MR0"/>
+<element name="U$458" library="topmirror" package="REGULATED1343" value="" x="89.916" y="146.558" smashed="yes" rot="MR0"/>
+<element name="U$459" library="top" package="XBEE340" value="" x="93.726" y="148.336" smashed="yes" rot="MR0"/>
+<element name="U$460" library="top" package="XBEE340" value="" x="86.106" y="148.336" smashed="yes"/>
+<element name="U$461" library="topmirror" package="REGULATED1343" value="" x="89.916" y="146.558" smashed="yes"/>
+<element name="U$462" library="botmirror" package="#D0#3" value="" x="94.107" y="138.176" smashed="yes"/>
+<element name="U$463" library="topmirror" package="#D1#AD1#SCL#8" value="" x="101.854" y="135.636" smashed="yes" rot="MR0"/>
+<element name="U$464" library="topmirror" package="#RLED#22" value="" x="101.727" y="114.427" smashed="yes" rot="MR0"/>
+<element name="U$465" library="topmirror" package="#D3#AD3##CS##23" value="" x="101.727" y="130.429" smashed="yes" rot="MR0"/>
 <element name="LOGO27" library="SparkFun-Aesthetics" package="BLANK" value="SFE_LOGO_NAMEBLANK" x="63.246" y="77.216" smashed="yes"/>
-<element name="U$459" library="topmirror" package="#EN#17" value="" x="98.425" y="112.776" smashed="yes"/>
+<element name="U$466" library="topmirror" package="#EN#17" value="" x="98.425" y="112.776" smashed="yes"/>
+<element name="U$467" library="topmirror" package="EXPLORER1344" value="" x="94.996" y="148.336" smashed="yes"/>
+<element name="U$468" library="topmirror" package="EXPLORER1344" value="" x="84.836" y="148.336" smashed="yes" rot="MR0"/>
 <element name="E$1" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="-2.62381875" y="154.559" smashed="yes"/>
 <element name="E$2" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="-2.62381875" y="154.559" smashed="yes" rot="MR0"/>
 <element name="E$3" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="109.81181875" y="154.559" smashed="yes"/>
