@@ -193,9 +193,7 @@ nav:
     - Introduction: introduction.md
     - Hardware Overview: hardware_overview.md
     - Hardware Assembly: hardware_assembly.md
-    - SparkFun XBee 3 Explorer Regulated Arduino Library:
-      - Software Setup: software_setup_and_programming.md
-      - Arduino Examples: examples.md
+    - Software Setup: software_setup_and_programming.md
   - Resources: resources_and_going_further.md
   - Support:
     - Troubleshooting: troubleshooting.md

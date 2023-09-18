@@ -33,14 +33,14 @@ To follow along with this tutorial, you will need the following materials. You m
     <tr>
         <td>
             <a href="https://www.sparkfun.com/products/22032">
-                <center><img src="https://cdn.sparkfun.com/assets/parts/2/1/8/9/4/22032-_XBee_Explorer_Regulated-_01.jpg" alt="SparkFun XBee 3 Explorer Regulated" height="140"></center>
+                <center><img src="https://cdn.sparkfun.com/assets/parts/2/1/8/9/4/22032-_XBee_Explorer_Regulated-_01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun XBee 3 Explorer Regulated" height="140"></center>
                 <h3 class="title">SparkFun XBee 3 Explorer Regulated</h3>
             </a>
             WRL-22032
         </td>
         <td>
             <a href="https://www.sparkfun.com/products/14743">
-                <center><img src="https://cdn.sparkfun.com/c/178-100/assets/parts/1/2/9/7/2/14743-USB_3.1_Cable_A_to_C_-_3_Foot-01.jpg" alt="USB 3.1 Cable A to C - 3 Foot" height="140">
+                <center><img src="https://cdn.sparkfun.com/c/178-100/assets/parts/1/2/9/7/2/14743-USB_3.1_Cable_A_to_C_-_3_Foot-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="USB 3.1 Cable A to C - 3 Foot" height="140">
                 </center>
                 <h3 class="title">USB 3.1 Cable A to C - 3 Foot</h3>
             </a>
