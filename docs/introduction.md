@@ -14,7 +14,8 @@
 </td>
 
 <td>
-What's in an XBee? In a word (or two) a lot! The SparkFun XBee 3 Explorer Regulated breaks out all the functionality of the XBee 3 series you know and love, PLUS the ability to connect to the cellular network, and (drumroll please) GNSS. This is a "Kitchen Sink" Development Board that breaks out the pin functionality of the XBee, includes 2 USB-C connectors for UART communication and Firmware updates, a Qwiic connector for all those lovely I<sup>2</sup>C sensors, as well as Reset and D0 buttons and the ability to switch between Direct USB and I<sup>2</sup>C. There's also a JST port for a battery. 
+
+The SparkFun XBee 3 Explorer Regulated breaks out all the functionality of the XBee 3 series but without the overhead of USB-C connectors. Power is provided through the PTH headers and the board retains its power regulation capabilities. There is a Qwiic connector for all those lovely I<sup>2</sup>C sensors as well as Reset and D0 buttons.
 
 The Digi Remote Manager® allows users to easily configure and control from a central platform. Built-in Digi TrustFence® security, identity and data privacy features use multiple layers of control to protect against new and evolving cyber threats. Standard XBee API frames and AT commands, MicroPython and Digi XCTU® simplify setup, configuration, testing and adding or changing functionality.
 
@@ -37,6 +38,13 @@ To follow along with this tutorial, you will need the following materials. You m
                 <h3 class="title">SparkFun XBee 3 Explorer Regulated</h3>
             </a>
             WRL-22032
+        </td>
+        <td>
+            <a href="https://www.sparkfun.com/products/22329">
+                <center><img src="" style="width:140px; height:140px; object-fit:contain;" alt="Digi XBee 3 Low-Power LTE-M/NB-IoT, GNSS, no SIM" height="140"></center>
+                <h3 class="title">Digi XBee 3 Low-Power LTE-M/NB-IoT, GNSS, no SIM</h3>
+            </a>
+            WRL-22329
         </td>
         <td>
             <a href="https://www.sparkfun.com/products/14743">

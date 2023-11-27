@@ -22,7 +22,7 @@ The Qwiic connector on the SparkFun XBee Development Board provides power and I<
 
 ## Buck Converter - AP63203
 
-The AP63203 Buck Converter ensures appropriate power supply to the components of the board. VIN range is <b>3.8V-5.5V</b>. Output is 2A max. 
+The AP63203 is a 2A, synchronous buck converter with a wide input voltage range that fully integrates a 125mΩ high-side power MOSFET and a 68mΩ lowside power MOSFET to provide high-efficiency step-down DC/DC conversion. VIN range is <b>3.8V-5.5V</b>. Output is 2A max. 
 
 <figure markdown>
 [![DUSB I2C Switch](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-BuckConverter.jpg){ width="400" }](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-BuckConverter.jpg "Click to enlarge")
@@ -30,13 +30,12 @@ The AP63203 Buck Converter ensures appropriate power supply to the components of
 </figure>
 
 
-
 ## GPIO
 
 We've broken out the XBee pins to plated through holes on either side of the board. 
 
 <figure markdown>
-[![GPIO](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-PTHs.jpg){ width="400" }](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-PTHs.jpg "Click to enlarge")
+[![GPIO](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-GPIO.jpg){ width="400" }](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-GPIO.jpg "Click to enlarge")
 <figcaption markdown>GPIO</figcaption>
 </figure>
 
@@ -74,7 +73,7 @@ The LED on the development board blinks when the XBee is registered to the cellu
 
 
 ### RSSI 
-Received Signal Strength Indicator - When configured, this LED reflects the received signal strength
+Received Signal Strength Indicator - When configured, this LED reflects the received signal strength. 
 
 RSSI PWM
 The RSSI/PWM output is enabled continuously unlike other XBee products where the output is enabled for a short period of time after each received transmission. If running on the XBIB development board, DIO10 is connected to the RSSI LEDs, which may be interpreted as follows:
