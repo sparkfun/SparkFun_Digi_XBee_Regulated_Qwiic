@@ -17,9 +17,6 @@ icon: fontawesome/solid/scroll
 # Software Setup and Programming
 --8<-- "./docs/software_setup_and_programming.md"
 
-# Arduino Examples
---8<-- "./docs/examples.md"
-
 # Troubleshooting
 --8<-- "./docs/troubleshooting.md"
 

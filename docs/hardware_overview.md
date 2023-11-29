@@ -1,3 +1,7 @@
+---
+icon: material/cog
+---
+
 ## XBee Smart Modem Socket
 
 We've kept the XBee socket consistent with the XBee pinout, so this breakout board is backwards compatible. 

@@ -27,8 +27,12 @@ theme:
     # Enable annotations in code blocks
     - content.code.annotate
 
+    # Enables code selection button to link a specific section of a code block
+    - content.code.select
+
     # Enable "view source" and "edit this page" buttons
     - content.action.edit
+
     # - content.action.view
 
     # Enable Navigation buttons in the footer (i.e. previous/next)
@@ -82,6 +86,9 @@ theme:
         name: Switch to light mode    
 
   icon:
+    # Sets homepage icon
+    logo: sfe-logo
+
     # Sets repo icon to GitHub icon
     repo: fontawesome/brands/github
     
@@ -124,13 +131,28 @@ plugins:
   - redirects:
       redirect_maps:
           'index.md': 'introduction.md'
+  # Add revision date
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+  # Add git committers at the bottom of the page
+  - git-committers:
+      repository: sparkfun/SparkFun_ESP32_Qwiic_Pro_Mini
+      branch: main
+  # Add git authors at the bottom of the page
+  - git-authors
+  # Enables use of Git submodules and larger code base
   - monorepo
-  # For PDF rendering
-#  - with-pdf:
-#      cover_subtitle: none
-#      cover_logo: assets/img/sfe_logo_sm.png
-#      exclude_pages: [ "print_pdf", "file_issue", "contribute" ]
-#      output_path: assets/SparkFun_6DoF_LSM6DSV16X-hookup_guide.pdf
+  # # For PDF rendering
+  # - with-pdf:
+  #     author: SparkFun Electronics&#174;
+  #     copyright: Copyright 2023 - SparkFun Electronics&#174;
+  #     cover_subtitle: none
+  #     cover_logo: assets/img/sfe_logo_sm.png
+  #     exclude_pages: [ "hard_copy", "single_page", "github/file_issue", "github/contribute" ]
+  #     output_path: assets/board_files/hookup_guide.pdf
+
+
 
 # Included Markdown extensions
 markdown_extensions:
@@ -163,15 +185,24 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-
+  - pymdownx.arithmatex:
+      generic: true
   - toc:
       permalink: ''
       # Link: &#x1F517; 🔗
       # Chain: &#x26D3; ⛓
 
 
+
 extra:
+  # Configures the hyperlink for the logo in the header
+  homepage: https://www.sparkfun.com
+
+
+  # Configures social icons in the footer
   social:
+    - icon: sfe-logo # simple/sparkfun
+      link: https://www.sparkfun.com/products/<SKU Number>
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/sparkfun
     - icon: fontawesome/brands/instagram
@@ -183,9 +214,21 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/sparkfun
 
+
+
 # Configures styling for PDF rendering and webpage layout
 extra_css:
   - stylesheet/extra.css
+
+
+
+# Enables support for rendering block and inline block equations through MathJax
+extra_javascript:
+  # Enables support for rendering block and inline block equations through MathJax
+  - javascript/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 
 # Configures webpage navigation
 nav:
@@ -194,8 +237,9 @@ nav:
     - Hardware Overview: hardware_overview.md
     - Hardware Assembly: hardware_assembly.md
     - Software Setup: software_setup_and_programming.md
-  - Resources: resources_and_going_further.md
+  - Resources: resources.md
   - Support:
     - Troubleshooting: troubleshooting.md
     - Submit Issues: github/file_issue.md
     - Contribute: github/contribute.md
+
