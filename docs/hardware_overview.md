@@ -15,7 +15,7 @@ We've kept the XBee socket consistent with the XBee pinout, so this breakout boa
 
 ## Qwiic Connector
 
-The Qwiic connector on the SparkFun XBee Development Board provides power and I<sup>2</sup>C connectivity to Qwiic breakout boards. 
+The Qwiic connector on the SparkFun XBee Regulated Board provides power and I<sup>2</sup>C connectivity to Qwiic breakout boards. Note that I<sup>2</sup>C functionality is not enabled by default. 
 
 <figure markdown>
 [![Qwiic Connector](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-QwiicConnex.jpg){ width="400" }](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-QwiicConnex.jpg "Click to enlarge")
