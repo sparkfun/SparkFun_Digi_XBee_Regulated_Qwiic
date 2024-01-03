@@ -2,31 +2,26 @@
 icon: material/book-open-page-variant
 ---
 
-<div class="grid.cards.desc" markdown>
 
-<table class="pdf" style="border-style:none;" markdown="1">
-<tbody markdown="1">
-<tr markdown="1">
-<td align="center" width="35%" markdown="block">
-[![SparkFun XBee 3 Explorer Regulated](https://cdn.sparkfun.com/assets/parts/2/1/8/9/4/22032-_XBee_Explorer_Regulated-_01.jpg){ width=90% }](https://www.sparkfun.com/products/22032)
+<div class="grid cards desc" markdown>
 
-<center>
-[Purchase from SparkFun :fontawesome-solid-cart-plus:](https://www.sparkfun.com/products/22560){ .md-button .md-button--primary }
-</center>
-</td>
+-    <a href="https://www.sparkfun.com/products/22560">
+    **SparkFun XBee Development Board**<br>
+    **SKU:** WRL-22560
 
-<td>
+    ---
 
-The SparkFun XBee 3 Explorer Regulated breaks out all the functionality of the XBee 3 series but without the overhead of USB-C connectors. Power is provided through the PTH headers and the board retains its power regulation capabilities. There is a Qwiic connector for all those lovely I<sup>2</sup>C sensors as well as Reset and D0 buttons.
+    <figure markdown>
+    ![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/8/9/4/22032-_XBee_Explorer_Regulated-_01.jpg)
+    </figure></a>
+    
+-    Unleash the power of XBee modules with the next-gen SparkFun XBee Explorer Regulated! This versatile breakout board bypasses a USB-C connection, packing all the XBee functionality you need alongside the power of Digi's newest XBee 3 modules (LTE-M/NB-IoT & RR Pro) into a single, convenient solution. The SparkFun XBee Explorer Regulated is the perfect companion for any low-power cellular IoT project. Its simplicity, versatility, and robust features make it ideal for beginners and seasoned developers. The SparkFun XBee 3 Explorer Regulated This versatile breakout board streamlines your workflow, providing everything you need to get started. Power is provided through the PTH headers, and the board retains its power regulation capabilities. You can enable the Qwiic connector for all those lovely I<sup>2</sup>C sensors and Reset and D0 buttons.
 
-The Digi Remote Manager® allows users to easily configure and control from a central platform. Built-in Digi TrustFence® security, identity and data privacy features use multiple layers of control to protect against new and evolving cyber threats. Standard XBee API frames and AT commands, MicroPython and Digi XCTU® simplify setup, configuration, testing and adding or changing functionality.
+    <center>
+    [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/21636){ .md-button .md-button--primary }
+    </center>
 
-
-</td>
-</tr>
-</tbody>
-</table>
-</div class>
+</div>
 
 ## Required Materials
 

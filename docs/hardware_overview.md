@@ -4,8 +4,7 @@ icon: material/cog
 
 ## XBee Smart Modem Socket
 
-We've kept the XBee socket consistent with the XBee pinout, so this breakout board is backwards compatible. 
-
+We've kept the XBee socket consistent with the XBee pinout, so this breakout board is backwards compatible. In order to take full advantage of this board, we recommend one of the newer Digi XBee boards. The [Digi XBee 3 Low-Power LTE-M/NB-IoT, GNSS, no SIM](https://www.sparkfun.com/products/22329) is a great bet. 
 
 <figure markdown>
 [![XBeeSocket](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-XBeeSocket.jpg){ width="400" }](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-XBeeSocket.jpg "Click to enlarge")
@@ -54,7 +53,7 @@ There are two buttons - D0 and RST.
 
 ## LEDs
 
-There are three LEDs on the board: 
+There are a number of LEDs on the board: 
 
 <figure markdown>
 [![LEDs](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-LEDs.jpg){ width="400" }](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-LEDs.jpg "Click to enlarge")
