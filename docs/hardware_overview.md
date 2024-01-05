@@ -64,7 +64,7 @@ There are a number of LEDs on the board:
 
 Lights up when power is provided to the board. 
 
-### ASC
+### ASSOC
 The LED on the development board blinks when the Digi XBee is registered to the cellular network.
 
 
