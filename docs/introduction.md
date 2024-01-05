@@ -6,7 +6,7 @@ icon: material/book-open-page-variant
 <div class="grid cards desc" markdown>
 
 -    <a href="https://www.sparkfun.com/products/22560">
-    **SparkFun XBee Development Board**<br>
+    **SparkFun Digi XBee® Explorer Regulated**<br>
     **SKU:** WRL-22560
 
     ---
@@ -15,7 +15,7 @@ icon: material/book-open-page-variant
     ![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/8/9/4/22032-_XBee_Explorer_Regulated-_01.jpg)
     </figure></a>
     
--    Unleash the power of XBee modules with the next-gen SparkFun XBee Explorer Regulated! This versatile breakout board bypasses a USB-C connection, packing all the XBee functionality you need alongside the power of Digi's newest XBee 3 modules (LTE-M/NB-IoT & RR Pro) into a single, convenient solution. The SparkFun XBee Explorer Regulated is the perfect companion for any low-power cellular IoT project. Its simplicity, versatility, and robust features make it ideal for beginners and seasoned developers. The SparkFun XBee 3 Explorer Regulated This versatile breakout board streamlines your workflow, providing everything you need to get started. Power is provided through the PTH headers, and the board retains its power regulation capabilities. You can enable the Qwiic connector for all those lovely I<sup>2</sup>C sensors and Reset and D0 buttons.
+-    Unleash the power of Digi XBee® modules with the next-gen SparkFun Digi XBee® Explorer Regulated! This versatile breakout board bypasses a USB-C connection, packing all the XBee functionality you need alongside the power of Digi's newest XBee 3 modules (XBee 3 LTE-M/NB-IoT and XBee RR Pro) into a single, convenient solution. The SparkFun Digi XBee® Explorer Regulated is the perfect companion for any low-power cellular IoT project. Its simplicity, versatility, and robust features make it ideal for beginners and seasoned developers. The SparkFun Digi XBee® Explorer Regulated streamlines your workflow, providing everything you need to get started. Power is provided through the PTH headers, and the board retains its power regulation capabilities. You can enable the Qwiic connector for all those lovely I<sup>2</sup>C sensors and Reset and D0 buttons.
 
     <center>
     [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/21636){ .md-button .md-button--primary }
@@ -37,7 +37,7 @@ To follow along with this tutorial, you will need the following materials. You m
 
     ---
 
-    **SparkFun XBee 3 Explorer Regulated**<br>
+    **SparkFun Digi XBee® Explorer Regulated**<br>
     WRL-22032</a>
 
 -   <a href="https://www.sparkfun.com/products/22329">
@@ -105,7 +105,7 @@ As a more professionally oriented product, we will skip over the more fundamenta
 </div>
 </center>
 
-The SparkFun XBee Regulated Board takes advantage of the [Qwiic connect system](https://www.sparkfun.com/qwiic). We recommend familiarizing yourself with the **Logic Levels** and **I<sup>2</sup>C** tutorials.  Click on the banner above to learn more about [Qwiic products](https://www.sparkfun.com/qwiic).
+The SparkFun Digi XBee® Explorer Regulated Board takes advantage of the [Qwiic connect system](https://www.sparkfun.com/qwiic). We recommend familiarizing yourself with the **Logic Levels** and **I<sup>2</sup>C** tutorials. Click on the banner above to learn more about [Qwiic products](https://www.sparkfun.com/qwiic).
 
 <center>
     <iframe width="600" height="327" src="https://www.youtube.com/embed/x0RDEHqFIF8" title="SparkFun's Qwiic Connect System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

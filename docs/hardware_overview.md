@@ -2,19 +2,19 @@
 icon: material/cog
 ---
 
-## XBee Smart Modem Socket
+## Digi XBee Smart Modem Socket
 
-We've kept the XBee socket consistent with the XBee pinout, so this breakout board is backwards compatible. In order to take full advantage of this board, we recommend one of the newer Digi XBee boards. The [Digi XBee 3 Low-Power LTE-M/NB-IoT, GNSS, no SIM](https://www.sparkfun.com/products/22329) is a great bet. 
+We've kept the Digi XBee socket consistent with the Digi XBee pinout, so this breakout board is backwards compatible. In order to take full advantage of this board, we recommend one of the newer Digi Digi XBee boards. The [Digi XBee 3 Low-Power LTE-M/NB-IoT, GNSS, no SIM](https://www.sparkfun.com/products/22329) is a great bet. 
 
 <figure markdown>
-[![XBeeSocket](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-XBeeSocket.jpg){ width="400" }](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-XBeeSocket.jpg "Click to enlarge")
+[![Digi XBeeSocket](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-XBeeSocket.jpg){ width="400" }](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-XBeeSocket.jpg "Click to enlarge")
 <figcaption markdown>XBeeSocket</figcaption>
 </figure>
 
 
 ## Qwiic Connector
 
-The Qwiic connector on the SparkFun XBee Regulated Board provides power and I<sup>2</sup>C connectivity to Qwiic breakout boards. Note that I<sup>2</sup>C functionality is not enabled by default. 
+The Qwiic connector on the SparkFun Digi XBee® Explorer Regulated Board provides power and I<sup>2</sup>C connectivity to Qwiic breakout boards. Note that I<sup>2</sup>C functionality is not enabled by default. 
 
 <figure markdown>
 [![Qwiic Connector](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-QwiicConnex.jpg){ width="400" }](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-QwiicConnex.jpg "Click to enlarge")
@@ -35,7 +35,7 @@ The AP63203 is a 2A, synchronous buck converter with a wide input voltage range 
 
 ## GPIO
 
-We've broken out the XBee pins to plated through holes on either side of the board. 
+We've broken out the Digi XBee pins to plated through holes on either side of the board. 
 
 <figure markdown>
 [![GPIO](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-GPIO.jpg){ width="400" }](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-GPIO.jpg "Click to enlarge")
@@ -65,7 +65,7 @@ There are a number of LEDs on the board:
 Lights up when power is provided to the board. 
 
 ### ASC
-The LED on the development board blinks when the XBee is registered to the cellular network.
+The LED on the development board blinks when the Digi XBee is registered to the cellular network.
 
 
 | Blink | Timing | Meaning |
@@ -79,7 +79,7 @@ The LED on the development board blinks when the XBee is registered to the cellu
 Received Signal Strength Indicator - When configured, this LED reflects the received signal strength. 
 
 RSSI PWM
-The RSSI/PWM output is enabled continuously unlike other XBee products where the output is enabled for a short period of time after each received transmission. If running on the XBIB development board, DIO10 is connected to the RSSI LEDs, which may be interpreted as follows:
+The RSSI/PWM output is enabled continuously unlike other Digi XBee products where the output is enabled for a short period of time after each received transmission. If running on the XBIB development board, DIO10 is connected to the RSSI LEDs, which may be interpreted as follows:
 
 
 | PWM duty cycle | Number of LEDs turned on | Received signal strength (dBm) |
@@ -118,10 +118,10 @@ The I<sup>2</sup>C jumper pulls the SDA and SCL pins to VDD (normally 3.3V) thro
 
 ## Board Outline
 
-The overall size of the SparkFun XBee Development Board is 1.4" by 2.05". For specific measurements, see the image below. 
+The overall size of the SparkFun Digi XBee® Explorer Regulated is 1.4" by 2.05". For specific measurements, see the image below. 
 
 
 <figure markdown>
-[![Board Outline](assets/BoardFiles/22032-SparkFun_XBee_Regulated_Qwiic_Board_Outline.png){ width="600" }](assets/BoardFiles/22032-SparkFun_XBee_Regulated_Qwiic_Board_Outline.png "Click to enlarge")
+[![Board Outline](assets/BoardFiles/22032-SparkFun_Digi_XBee_Regulated_Qwiic_Board_Outline.png){ width="600" }](assets/BoardFiles/22032-SparkFun_Digi_XBee_Regulated_Qwiic_Board_Outline.png "Click to enlarge")
 <figcaption markdown>Board Outline</figcaption>
 </figure>
