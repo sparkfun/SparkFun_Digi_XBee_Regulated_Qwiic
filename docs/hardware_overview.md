@@ -44,7 +44,7 @@ We've broken out the Digi XBee pins to plated through holes on either side of th
 
 ## Buttons 
 
-There are two buttons - D0 and RST. 
+There are two buttons - D0 and RST. RST resets the board without power cycling it, D0 is user-defined. 
 
 <figure markdown>
 [![Reset and D0 Buttons](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-Buttons.jpg){ width="400" }](assets/imgs/22032-SparkFun-XBee-Explorer-Regulated-Buttons.jpg "Click to enlarge")
